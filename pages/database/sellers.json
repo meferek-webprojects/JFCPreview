@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Tomasz",
+        "surname": "Wądołowski",
+        "phone": "+48 663 390 800",
+        "email": "twadlawski@jfcpolska.pl"
+    },
+    {
+        "id": "2",
+        "name": "Bożena",
+        "surname": "Kalbarczyk",
+        "phone": "+48 607 488 800",
+        "email": "bkalbarczyk@jfcpolska.pl"
+    },
+    {
+        "id": "3",
+        "name": "Artur",
+        "surname": "Rasiński",
+        "phone": "+48 695 260 450",
+        "email": "arasinski@jfcpolska.pl"
+    },
+    {
+        "id": "4",
+        "name": "Sławomir",
+        "surname": "Szydłowski",
+        "phone": "+48 695 636 313",
+        "email": "sszydlowski@jfcpolska.pl"
+    },
+    {
+        "id": "5",
+        "name": "Jarosław",
+        "surname": "Zieliński",
+        "phone": "+48 695 421 930",
+        "email": "jzielinski@jfcpolska.pl"
+    },
+    {
+        "id": "6",
+        "name": "Agnieszka",
+        "surname": "Kopka",
+        "phone": "+48 603 902 900",
+        "email": "akopka@jfcpolska.pl"
+    }
+]

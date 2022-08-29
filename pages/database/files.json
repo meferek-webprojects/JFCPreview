@@ -1,0 +1,42 @@
+[
+    {
+        "id": "0",
+        "product_id": "2",
+        "languages": [
+            "PL",
+            "ENG"
+        ],
+        "files": {
+            "PL": [
+                ["BASIC, SPECIAL", "/docs/instructions/JFC1500/PL/INSTRUKCJA - basic, special - JFC1500.pdf"],
+                ["CUBE", "/docs/instructions/JFC1500/PL/INSTRUKCJA - basic, special - JFC1500.pdf"],
+                ["OPINIA PPOŻ", "/docs/instructions/JFC1500/PL/INSTRUKCJA - basic, special - JFC1500.pdf"],
+                ["INSTRUKCJE PODZESPOŁÓW", "/docs/instructions/JFC1500/PL/INSTRUKCJA - basic, special - JFC1500.pdf"],
+                ["INSTRUKCJA modi pump 60", "/docs/instructions/INSTRUKCJA - modi pump 60.pdf"],
+                ["INSTRUKCJA modiflow", "/docs/instructions/INSTRUKCJA - modiflow.pdf"],
+                ["INSTRUKCJA TEK574", "/docs/instructions/INSTRUKCJA - TEK574.pdf"],
+                ["INSTRUKCJA obsługi czujnika przepełnienia GWD", "/docs/instructions/INSTRUKCJA - obsługi czujnika przepełnienia GWD.pdf"]
+            ]
+        }
+    },
+    {
+        "id": "1",
+        "product_id": "3",
+        "languages": [
+            "PL",
+            "ENG"
+        ],
+        "files": {
+            "PL": [
+                ["BASIC, SPECIAL", "/docs/instructions/JFC1500/PL/INSTRUKCJA - basic, special - JFC1500.pdf"],
+                ["CUBE", "/docs/instructions/JFC1500/PL/INSTRUKCJA - basic, special - JFC1500.pdf"],
+                ["OPINIA PPOŻ", "/docs/instructions/JFC1500/PL/INSTRUKCJA - basic, special - JFC1500.pdf"],
+                ["INSTRUKCJE PODZESPOŁÓW", "/docs/instructions/JFC1500/PL/INSTRUKCJA - basic, special - JFC1500.pdf"],
+                ["INSTRUKCJA modi pump 60", "/docs/instructions/INSTRUKCJA - modi pump 60.pdf"],
+                ["INSTRUKCJA modiflow", "/docs/instructions/INSTRUKCJA - modiflow.pdf"],
+                ["INSTRUKCJA TEK574", "/docs/instructions/INSTRUKCJA - TEK574.pdf"],
+                ["INSTRUKCJA obsługi czujnika przepełnienia GWD", "/docs/instructions/INSTRUKCJA - obsługi czujnika przepełnienia GWD.pdf"]
+            ]
+        }
+    }
+]

@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Prometo";
+    src: url("../public/fonts/Prometo/PrometoMedium.ttf");
+}
+
+@font-face {
+    font-family: "Prometo-Bold";
+    src: url("../public/fonts/Prometo/PrometoBold.ttf");
+}
+
+@font-face {
+    font-family: "Proxima";
+    src: url("../public/fonts/ProximaNova/ProximaNovaRegular.otf");
+}
+
+@font-face {
+    font-family: "Proxima-Bold";
+    src: url("../public/fonts/ProximaNova/ProximaNovaBold.otf");
+}
+
+@font-face {
+    font-family: "Brands";
+    src: url("../public/fonts/fa-brands-400.woff2");
+}
+
+@font-face {
+    font-family: "Solid";
+    src: url("../public/fonts/fa-solid-900.woff2");
+}
+
+:root {
+    --select-border: #777 !important;
+    --select-focus: blue !important;
+    --select-arrow: var(--select-border) !important;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: transparent;
+    background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+    background-repeat: no-repeat;
+    background-position-x: 98%;
+    background-position-y: 8px;
+    padding: 1rem;
+    padding-right: 2rem;
+    outline: none;
+}
+
+body,
+html {
+    scroll-behavior: smooth;
+}

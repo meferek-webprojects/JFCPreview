@@ -1,0 +1,148 @@
+[
+    {
+        "id": "1",
+        "name": "Zbiorniki i dystrybutory",
+        "urlName": "zbiorniki-i-dystrybutory",
+        "title": "",
+        "description": "Zbiorniki do paliw JFC to optymalne rozwiązanie do magazynowania i wewnętrznej dystrybucji oleju napędowego. Znajduje zastosowanie wszędzie tam gdzie wykorzystywane są silniki wysokoprężne: ciągniki, samochody ciężarowe i osobowe, maszyny rolnicze i budowlane, wózki widłowe itp.",
+        "keywords": "zbiorniki, diesel, adblue, jfc, kontener, stacja paliw, rolnictwo",
+        "heroImage": "zbiorniki.jpg",
+        "subcategory": [
+            "Zbiorniki na olej napędowy (diesel)",
+            "Zbiorniki na AdBlue",
+            "Zbiorniki RSM",
+            "Zbiorniki na wodę",
+            "Zbiorniki na olej opałowy"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Systemy dezynfekcji",
+        "urlName": "systemy-dezynfekcji",
+        "title": "",
+        "description": "Skuteczne systemy dezynfekcji osób i powierzchni. Urządzenia JFC to zwiększenie bezpieczeństwa osób w zakładach pracy, rolnictwie, przemyśle oraz w miejscach użyteczności publicznej.",
+        "keywords": "dezynfekcja, system dezyfnekcji, sterylność, bezpieczeństwo, czystość, bakterie",
+        "heroImage": "dezynfekcja.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Rolnictwo",
+        "urlName": "rolnictwo",
+        "title": "",
+        "description": "Innowacyjne rozwiązania dla rolnictwa produkcji JFC Polska. Zanajdziesz tutaj poidła, wyposażenie stajni, taczki, maty legowiskowe, wygrodzenia, karmidła i wiele innych produktów do udoskonalenia Twojego gospodarstwa.",
+        "keywords": "rolnictwo, jfc, maty legowiskowe, taczki, domki, karmienie, higiena i bezpieczeństwo, zaopatrzenie w wodę, poidła, karmidła",
+        "heroImage": "rolnictwo.jpg",
+        "subcategory": [
+            "Zaopatrzenie w wodę",
+            "Taczki",
+            "Maty legowiskowe",
+            "Przyczepki i kufry ATV",
+            "Miksery i pompy do gnojowicy",
+            "Domki",
+            "Karmienie",
+            "Higiena i bezpieczeństwo",
+            "Bio ActiW VET Professional"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Świetliki i kurtyny",
+        "urlName": "swietliki-i-okna",
+        "title": "",
+        "description": "Prawidłowe oświetlenie i wentylacja w budynkach inwentarskich jest niezbędnym elementem potrzebnym do prawidłowego odchowu zwierząt.",
+        "keywords": "świetliki, kurtyny, oświetlenie w budynkach inwentarskich, świetliki kalenicowe",
+        "heroImage": "swietliki.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Gromadzenie wody",
+        "urlName": "gromadzenie-wody",
+        "title": "",
+        "description": "JFC Polska Deszczówka to jedyne odnawialne źródło wody.Wykorzystując deszczówkę, ograniczamy pobór wody z sieci wodociągowej. Co za tym idzie – odprowadzamy mniejszą ilość ścieków do kanalizacji. Dzięki temu rachunek za wodę i ścieki może być niższy nawet o kilkadziesiąt procent.Nasze pojemniki na wodę pitną to stabilne konstrukcje odporne na diałanie promieni UV, wytrzymałe i łatwe w użytkowaniu. Posiadają atest PZH – Narodowego Instytutu Zdrowia Publicznego. %",
+        "keywords": "deszczówka, zbiorniki na wodę, woda, zbiorniki na deszczówkę",
+        "heroImage": "gospodarka-wodna.jpg",
+        "subcategory": [
+            "Zbiorniki na deszczówkę",
+            "Komory drenażowe",
+            "Zbiorniki na wodę pitną"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Recykling",
+        "urlName": "recykling",
+        "title": "",
+        "description": "JFC Polska oferuje szeroką gamę produktów, pojemników do segregacji odpadów. W naszej ofercie posiadamy pojemniki różnych rozmiarów, dostosowane do potrzeb zarówno gospodarstw domowych, szkół i przedszkoli oraz zakładów oczyszczania miast.",
+        "keywords": "śmietniki, segregacja, odpady, pojemniki, dbanie o środowisko, ekologia, pojemniki ekologiczne",
+        "heroImage": "recykling.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Gospodarka wodno-ściekowa",
+        "urlName": "gospodarka-wodno-ściekowa",
+        "title": "",
+        "description": "Wszystkie oczyszczalnie produkowane przez firmę JFC Polska są zgodne z obowiązującymi przepisami i posiadają wymagane deklaracje i certyfikaty. Produkowane przez JFC oczyszczalnie biologiczne i osadniki gnilne wchodzące w skład oczyszczalni drenażowych oznakowane są znakiem CE.",
+        "keywords": "przydomowe oczyszczalnie, oczyszczalnie ścieków, gospodarka wodno-ściekowa, oczyszczalnie tradycyjne, oczyszczalnie biologiczne, zbiorniki",
+        "heroImage": "gospodarka-wodna.jpg",
+        "subcategory": [
+            "Oczyszczalnie tradycyjne",
+            "Oczyszczalnie biologiczne",
+            "Zbiorniki",
+            "Instalacje",
+            "Akcesoria"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Donice dekoracyjne",
+        "urlName": "donice-dekoracyjne",
+        "title": "",
+        "description": "Donice JFC Polska to wiele możliwości aranżacyjnych – mogą być stosowane w ogrodach, na balkonach, tarasach, otoczeniach firm i przestrzeni miejskiej.",
+        "keywords": "donice, donice dekoracyjne, dekoracje, ogród",
+        "heroImage": "doniczki.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Infrastruktura morska",
+        "urlName": "infrastruktura-morska",
+        "title": "",
+        "description": "Dzięki ponad 30-letniemu doświadczeniu wyznaczamy standardy w żegludze morskiej.  Produkujemy wielokrotnie nagradzany asortyment boi nawigacyjnych. Jako członkowie IALA produkujemy boje i latarnie zgodnie z najwyższymi standardami. Nasza szeroka gama produktów morskich została zaprojektowana do najbardziej wymagających warunków, przy użyciu materiałów najwyższej jakości, oferujących doskonałą stabilność, wszechstronność systemu zasilania i wymagań środowiskowych.",
+        "keywords": "boje, boje nawigacyjne, pława ostrzegawcza, latarnie morskie, światła nawigacyjne",
+        "heroImage": "marine.jpg",
+        "subcategory": [
+            "Boje nawigacyjne i plawy ostrzegawcze",
+            "Bojki znakowe i markery",
+            "Latarnie morskie i światła nawigacyjne"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Higiena i bezpieczeństwo",
+        "urlName": "higiena-i-bezpieczeństwo",
+        "subcategory": [
+            "Higiena i bezpieczeństwo"
+        ],
+        "title": "",
+        "description": "Firma JFC oferuje produkty do dezynfekcji, które wraz z dobrymi praktykami rolniczymi ograniczają rozprzestrzenianie się infekcji oraz zapobiegają i pomagają w leczeniu chorób.",
+        "keywords": "dezynfekcja, system dezyfnekcji, sterylność, bezpieczeństwo, czystość, bakterie",
+        "heroImage": "higiena.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Wyposażenie stajni",
+        "urlName": "wyposazenie-stajni",
+        "title": "",
+        "description": "Wszystko, co najlepsze! Firma JFC oferuje szeroki zakres funkcjonalnych karmideł i akcesoriów zaprojektowanych w trosce o konie. Po konsultacji z ekspertami weterynaryjnymi i najlepszymi hodowcami koni stworzyliśmy wytrzymałe i odporne nawet na agresywne uderzenia produkty, które gwarantują bezpieczeństwo koni.Nasze produkty są bardzo trwałe i wykończone gładką powierzchnią, ułatwiającą czyszczenie oraz…",
+        "keywords": "stajnia, karmidła, wyposażenie stajni, poidła, paśniki, taczki, domki, dodatkowe wyposażenie stajni",
+        "heroImage": "stajnia.jpg",
+        "subcategory": [
+            "Zaopatrzenie w wodę",
+            "Taczki",
+            "Przyczepki i kufry ATV",
+            "Domki",
+            "Karmienie",
+            "Wyposażenie dodatkowe",
+            "Bio ActiW VET Professional"
+        ]
+    }
+]
