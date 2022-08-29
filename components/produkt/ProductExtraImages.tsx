@@ -16,7 +16,7 @@ const ProductExtraImages = ({ images, movie }: Props) => {
         <>
             <PopUpPhoto popup={popup} setPopup={setPopup} image={ popup }></PopUpPhoto>
             
-            <LgContainer className="mt-28 mx-1 sm:mx-4">
+            <LgContainer className="mt-6 md:mt-14 mx-1 sm:mx-4">
                 <div className="grid grid-cols-2 md:grid-cols-6 xl:grid-cols-6 2xl:grid-cols-8 w-full gap-4">
                     { movie !== "URLtoMovie" && movie !== undefined ?
                         <Link href="#movie">
