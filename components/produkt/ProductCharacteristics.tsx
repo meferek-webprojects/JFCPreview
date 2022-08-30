@@ -24,7 +24,7 @@ export const ProductCharacteristics = ({image, name, characteristics, dimensions
                     </div>
                 </div>
                 <div className="w-full 2xl:w-2/6 relative m-5 h-[25rem] 2xl:my-auto 2xl:mx-0">
-                    <Image alt="" src={ image } layout="fill" objectFit="contain" objectPosition="right" />
+                    <Image alt="" src={ image } layout="fill" objectFit="contain" objectPosition="center" />
                 </div>
             </div>
             <div className={`flex `+ (dimensions ? "" : "hidden")}>

@@ -6,15 +6,16 @@ type Props = {
     equipment: string[],
     extraEquipment: string[],
     name: string,
-    image: string
+    image: string,
+    dimensions?: string,
 }
 
-const ProductEqTabs = ({ equipment, extraEquipment, name, image }: Props) => {
+const ProductEqTabs = ({ equipment, extraEquipment, name, image, dimensions }: Props) => {
 
     const [tab, setTab] = useState(true)
 
     return (
-        <LgContainer className="mx-0 sm:mx-4">
+        <LgContainer className="mx-0 sm:mx-4 mt-28">
             <div className="flex flex-col w-full">
                 <div className="flex">
                     <div className={`w-1/2 flex text-center text-blue-700 font-prometobold text-base xs:text-xl sm:text-2xl md:text-3xl py-4 cursor-pointer group ` + (tab ? `bg-blue-100` : ``) } onClick={() => setTab(true) }>
@@ -48,6 +49,9 @@ const ProductEqTabs = ({ equipment, extraEquipment, name, image }: Props) => {
                         <Image alt="" src={ image } layout="fill" objectFit="contain" />
                     </div>
                 </div>
+                <div className={`flex `+ (dimensions ? "" : "hidden")}>
+                    <div className={`bg-blue-300 text-center grow sm:grow-0 text-xl text-white font-prometo py-2  px-0 sm:px-10 ml-auto`}>{ dimensions }</div>
+                </div>  
             </div>
         </LgContainer>
     );

@@ -77,7 +77,7 @@ const Produkt = ({ product }: Params) => {
             <ProductExtraImages images={ product.images.concat(product.extraImages).filter(image => image != "") } movie={ product.movie }/>
 
             { product.equipment && product.extraEquipment ? 
-                <ProductEqTabs image={ product.images[0] } equipment={ product.equipment } extraEquipment={ product.extraEquipment } name={ product.name } />
+                <ProductEqTabs image={ product.images[0] } equipment={ product.equipment } extraEquipment={ product.extraEquipment } name={ product.name } dimensions={ eqDim ? product.dimensions : undefined } />
             : null }
 
             <Attribs />

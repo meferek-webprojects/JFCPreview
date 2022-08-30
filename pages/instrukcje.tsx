@@ -12,9 +12,11 @@ import products from "../pages/database/products.json";
 import React from 'react'
 import { useState, useEffect, useRef } from 'react';
 import Link from "next/link";
+import PopUpPhoto from "../components/produkt/PopUpPhoto";
 
 const Instrukcje: NextPage = () => {
 
+    const [popup, setPopup] = useState('')
     const [url, setUrl] = useState('/pliki/0');
     const [disabledDownload, setDisabledDownload] = useState(true);
     const [changeHandle, setChangeHandle] = useState("");
@@ -44,23 +46,25 @@ const Instrukcje: NextPage = () => {
 
             <Nav type="static"/>
 
+            <PopUpPhoto popup={popup} setPopup={setPopup} image={ popup } video={ popup }></PopUpPhoto>
+
             <LgContainer>
                 <>
                     <Title main="Instrukcje produktów" secondary="JFC POLSKA"/>
                     <div className="grid grid-cols-2 xl:grid-cols-4">
-                        <Instruction movie="https://www.youtube.com/watch?v=6xFYNt2h0bQ&ab_channel=JFCPolska" thumb="/images/thumbs/YT-wymiana-filtra-metalowego.jpg"/>
+                        <Instruction movie="6xFYNt2h0bQ" thumb="/images/thumbs/YT-wymiana-filtra-metalowego.jpg" setPopup={setPopup}/>
                     </div>
                     <Title main="Instrukcje w formacie PDF" secondary="JFC POLSKA"/>
                     <div className="grid grid-cols-2 gap-4">
                         
-                        <select ref={ select1 } onChange={ () => setChangeHandle("product") } className={`custom-select font-proxima px-4 py-2 bg-blue-300/[0.07] w-full border-2 border-blue-900/[.09] active:border-blue-300 focus-visible:border-blue-300 focus:border-blue-300/[1] focus:outline-none `}>
+                        <select ref={select1} onChange={ () => setChangeHandle("product") } className={`custom-select font-proxima px-4 py-2 bg-blue-300/[0.07] w-full border-2 border-blue-900/[.09] active:border-blue-300 focus-visible:border-blue-300 focus:border-blue-300/[1] focus:outline-none `}>
                             <option disabled selected value="">--- Wybierz produkt ---</option>
                             { files.map(f => 
                                 <option key={ f.id } value={ f.id }>{ products.find(p => p.id == f.product_id)!.name }</option>
                             )}
                         </select>
                         
-                        <select ref={ select2 } onChange={ () => setChangeHandle("language") } className={`custom-select font-proxima px-4 py-2 bg-blue-300/[0.07] w-full border-2 border-blue-900/[.09] active:border-blue-300 focus-visible:border-blue-300 focus:border-blue-300/[1] focus:outline-none `}>
+                        <select ref={select2} onChange={ () => setChangeHandle("language") } className={`custom-select font-proxima px-4 py-2 bg-blue-300/[0.07] w-full border-2 border-blue-900/[.09] active:border-blue-300 focus-visible:border-blue-300 focus:border-blue-300/[1] focus:outline-none `}>
                                 <option disabled selected value="">--- Wybierz język ---</option>
                                 <option value="PL">PL</option>
                                 <option value="ENG">ENG</option>
@@ -74,6 +78,7 @@ const Instrukcje: NextPage = () => {
                     </div>
                 </>
             </LgContainer>
+
            <Footer /> 
         </>
     );

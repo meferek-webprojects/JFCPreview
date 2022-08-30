@@ -16,7 +16,7 @@ const ProductHero = ({name, description, code, photos, capacity, dimensions }: P
     return (
         <LgContainer className="mx-0 sm:mx-4">
             <>
-                <div className="p-5 mt-0 sm:mt-20 bg-blue-100 flex flex-col 2xl:flex-row">
+                <div className="p-5 mt-6 sm:mt-20 bg-blue-100 flex flex-col 2xl:flex-row">
                     <div className="w-4/5 h-fit sm:w-3/5 2xl:w-1/3 relative mx-auto 2xl:mx-5 2xl:my-auto">
                         <Carousel showThumbs={false} showStatus={false} autoPlay={true} interval={3000} showIndicators={false} infiniteLoop={true} emulateTouch={true}>
                             { photos.map(photo => 
