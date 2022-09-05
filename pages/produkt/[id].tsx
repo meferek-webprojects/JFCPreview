@@ -7,6 +7,7 @@ import Nav from "../../components/Global/Navbar/Nav";
 import ContactSeller from "../../components/produkt/ContactSeller";
 import { ProductCharacteristics, ProductCharacteristics2 } from "../../components/produkt/ProductCharacteristics";
 import ProductAttribs from "../../components/produkt/ProductAttribs";
+import ProductSpecifications from "../../components/produkt/ProductSpecifications";
 import ProductEq from "../../components/produkt/ProductEq";
 import ProductExtraEq from "../../components/produkt/ProductExtraEq";
 import ProductEqTabs from "../../components/produkt/ProductEqTabs";
@@ -33,6 +34,7 @@ type Params = {
         characteristics: string[],
         attribs?: string[],
         attribImage?: string,
+        specifications?: string[],
         movie: string,
         dimensions: string,
         subcategory: string,
@@ -74,10 +76,10 @@ const Produkt = ({ product }: Params) => {
 
             <ProductHero capacity={ product.capacity } name={ product.name } description={ product.description } code={ product.code } photos={ product.images } />
 
-            <ProductExtraImages images={ product.images.concat(product.extraImages).filter(image => image != "") } movie={ product.movie }/>
+            <ProductExtraImages images={ product.images.concat(product.extraImages).filter(image => image != "") } movie={ product.movie } specifications={product.specifications}/>
 
             { product.equipment && product.extraEquipment ? 
-                <ProductEqTabs image={ product.images[0] } equipment={ product.equipment } extraEquipment={ product.extraEquipment } name={ product.name } dimensions={ eqDim ? product.dimensions : undefined } />
+                <ProductEqTabs image={ product.extraImages ? product.extraImages : product.images } equipment={ product.equipment } extraEquipment={ product.extraEquipment } name={ product.name } dimensions={ eqDim ? product.dimensions : undefined } />
             : null }
 
             <Attribs />
@@ -103,6 +105,10 @@ const Produkt = ({ product }: Params) => {
 
             { product.movie !== "URLtoMovie" && product.movie !== undefined ? 
                 <ProductMovie movie={ product.movie } />
+            : null }
+
+            { product.specifications ?
+                <ProductSpecifications specifications={ product.specifications } />
             : null }
 
             <ContactSeller sellersId={ product.sellers_id } />

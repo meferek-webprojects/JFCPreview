@@ -10,8 +10,8 @@
         "dimensions": "235 x 77 x 152 [cm]",
         "capacity": "1100 L",
         "equipment": [
-            "Pompa Panther 79, 70l/min, 230 V / 50Hz",
-            "Licznik elektroniczny Modi JFC",
+            "Pompa 79, 70l/min, 230 V / 50Hz",
+            "Licznik elektroniczny ",
             "Seperator metalowy JFC",
             "Wąż dystrybucyjny o długości 6m, zakuty obustronnie",
             "Automatyczny pistolet A60 JFC",
@@ -19,7 +19,7 @@
             "GWD - czujnik przeciwprzepełnieniowy"
         ],
         "extraEquipment": [
-            "Zwijadła mechaniczne z wężem o długości od 6 do 20m",
+            "Zwijadła automatyczne z wężem o długości od 6 do 20m",
             "Dolna linia napełniająca DN50 z szybkozłączem i zaworem SpillStop",
             "Oświetlenie LED szafy dystrybucyjnej",
             "Szeroka gama filtrów, separatorów w tym do paliw BIO",
@@ -45,7 +45,8 @@
             "/images/products/zbiorniki-i-dystrybutory/JFC1100/JFC1100-4.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
         ]
     },
     {
@@ -60,14 +61,14 @@
         "capacity": "1300 L",
         "equipment": [
             "Czujnik przecieku ze wskaźnikiem poziomu",
-            "Pompa Panther 56, 50 l/min, 230V",
-            "Licznik elektroniczny K24",
+            "Pompa 56, 50 l/min, 230V",
+            "Licznik elektroniczny ",
             "Wąż dystrybucyjny ¾”, dł. 6m",
             "Automatyczny pistolet JFC",
             "Duża lub mała skrzynia"
         ],
         "extraEquipment": [
-            "Zwijadła mechaniczne z wężem o długości od 6 do 20m",
+            "Zwijadła automatyczne z wężem o długości od 6 do 20m",
             "Dolna linia napełniająca DN50 z szybkozłączem i zaworem SpillStop",
             "Oświetlenie LED szafy dystrybucyjnej",
             "Szeroka gama filtrów, separatorów w tym do paliw BIO",
@@ -78,14 +79,21 @@
             "1",
             "2"
         ],
+        "attribs": [
+            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
+            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
+            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
+            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
+            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
+        ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFC1300/JFC1300-1.png",
             "/images/products/zbiorniki-i-dystrybutory/JFC1300/JFC1300-2.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC1300/JFC1300-3.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC1300/JFC1300-4.png"
+            "/images/products/zbiorniki-i-dystrybutory/JFC1300/JFC1300-3.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
         ]
     },
     {
@@ -100,14 +108,14 @@
         "capacity": "1600 L",
         "equipment": [
             "Czujnik przecieku ze wskaźnikiem poziomu",
-            "Pompa Panther 56, 50 l/min, 230V",
-            "Licznik elektroniczny K24",
+            "Pompa 56, 50 l/min, 230V",
+            "Licznik elektroniczny ",
             "Wąż dystrybucyjny ¾”, dł. 6m",
             "Automatyczny pistolet JFC",
             "Duża lub mała skrzynia"
         ],
         "extraEquipment": [
-            "Zwijadła mechaniczne z wężem o długości od 6 do 20m",
+            "Zwijadła automatyczne z wężem o długości od 6 do 20m",
             "Dolna linia napełniająca DN50 z szybkozłączem i zaworem SpillStop",
             "Oświetlenie LED szafy dystrybucyjnej",
             "Szeroka gama filtrów, separatorów w tym do paliw BIO",
@@ -118,6 +126,13 @@
             "1",
             "2"
         ],
+        "attribs": [
+            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
+            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
+            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
+            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
+            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
+        ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFC1600/JFC1600-1.png",
             "/images/products/zbiorniki-i-dystrybutory/JFC1600/JFC1600-2.png",
@@ -125,7 +140,8 @@
             "/images/products/zbiorniki-i-dystrybutory/JFC1600/JFC1600-4.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
         ]
     },
     {
@@ -140,14 +156,14 @@
         "capacity": "2500 L",
         "equipment": [
             "Czujnik przecieku ze wskaźnikiem poziomu",
-            "Pompa Panther 79, 70 l/min, 230V",
+            "Pompa 79, 70 l/min, 230V",
             "Filtr oleju/separator wody",
-            "Licznik elektroniczny K24",
+            "Licznik elektroniczny ",
             "Wąż dystrybucyjny ¾”, dł. 6m",
             "Automatyczny pistolet JFC"
         ],
         "extraEquipment": [
-            "Zwijadła mechaniczne z wężem o długości od 6 do 20m",
+            "Zwijadła automatyczne z wężem o długości od 6 do 20m",
             "Dolna linia napełniająca DN50 z szybkozłączem i zaworem SpillStop",
             "Oświetlenie LED szafy dystrybucyjnej",
             "Szeroka gama filtrów, separatorów w tym do paliw BIO",
@@ -158,6 +174,13 @@
             "1",
             "2"
         ],
+        "attribs": [
+            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
+            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
+            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
+            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
+            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
+        ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFC2500/JFC2500-1.png",
             "/images/products/zbiorniki-i-dystrybutory/JFC2500/JFC2500-2.png",
@@ -165,7 +188,8 @@
             "/images/products/zbiorniki-i-dystrybutory/JFC2500/JFC2500-4.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
         ]
     },
     {
@@ -181,14 +205,14 @@
         "equipment": [
             "Czujnik przecieku ze wskaźnikiem poziomu",
             "GOK – czujnik przepełnieniowy",
-            "Pompa Panther 79, 70 l/min, 230V",
+            "Pompa 79, 70 l/min, 230V",
             "Filtr oleju/separator wody",
             "Licznik elektroniczny K600",
             "Wąż dystrybucyjny ¾”, dł. 6m",
             "Automatyczny pistolet JFC"
         ],
         "extraEquipment": [
-            "Zwijadła mechaniczne z wężem o długości od 6 do 20m",
+            "Zwijadła automatyczne z wężem o długości od 6 do 20m",
             "Dolna linia napełniająca DN50 z szybkozłączem i zaworem SpillStop",
             "Oświetlenie LED szafy dystrybucyjnej",
             "Szeroka gama filtrów, separatorów w tym do paliw BIO",
@@ -199,12 +223,20 @@
             "1",
             "2"
         ],
+        "attribs": [
+            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
+            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
+            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
+            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
+            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
+        ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFC5000/JFC5000-1.png",
             "/images/products/zbiorniki-i-dystrybutory/JFC5000/JFC5000-2.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
         ]
     },
     {
@@ -218,10 +250,10 @@
         "dimensions": "160 x 160 x 190 [cm]",
         "capacity": "2500 L",
         "equipment": [
-            "Pompa AdBlue 40 l/min, zatapialna BEST ONE, 230V",
+            "Pompa Adblue zatapialna",
             "Wąż dystrybucyjny ¾”, dł. 6m",
             "Pistolet automatyczny",
-            "Licznik elektroniczny K24",
+            "Licznik elektroniczny dwufunkcyjny ",
             "Mała/Duża skrzynia"
         ],
         "extraEquipment": [
@@ -231,11 +263,19 @@
             "1",
             "2"
         ],
+        "attribs": [
+            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
+            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
+            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
+            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
+            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
+        ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFC2500-ADBLUE-SINGLE/JFC2500-ADBLUE-1-SINGLE.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
         ]
     },
     {
@@ -249,10 +289,10 @@
         "dimensions": "215 x 215 x 190 [cm]",
         "capacity": "5000 L",
         "equipment": [
-            "Pompa AdBlue 40 l/min, zatapialna BEST ONE, 230V",
+            "Pompa Adblue zatapialna",
             "Wąż dystrybucyjny ¾”, dł. 6m",
             "Pistolet automatyczny",
-            "Licznik elektroniczny K24",
+            "Licznik elektroniczny dwufunkcyjny ",
             "Mała/Duża skrzynia"
         ],
         "extraEquipment": [
@@ -262,11 +302,19 @@
             "1",
             "2"
         ],
+        "attribs": [
+            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
+            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
+            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
+            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
+            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
+        ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFC5000-ADBLUE-SINGLE/JFC5000-ADBLUE-SINGLE-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
         ]
     },
     {
@@ -283,7 +331,7 @@
             "Pompa AdBlue zatapialna BEST ONE 40 l/min, 230V",
             "Wąż dystrybucyjny ¾”, dł. 6m",
             "Pistolet automatyczny",
-            "Licznik elektroniczny K24",
+            "Licznik elektroniczny dwufunkcyjny ",
             "Elektryczna skrzynka sterująca"
         ],
         "extraEquipment": [
@@ -294,11 +342,19 @@
             "1",
             "2"
         ],
+        "attribs": [
+            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
+            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
+            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
+            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
+            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
+        ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFC2500-ADBLUE/JFC2500-ADBLUE-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
         ]
     },
     {
@@ -315,7 +371,7 @@
             "Pompa AdBlue zatapialna BEST ONE 40 l/min, 230V",
             "Wąż dystrybucyjny ¾”, dł. 6m",
             "Pistolet automatyczny",
-            "Licznik elektroniczny K24",
+            "Licznik elektroniczny dwufunkcyjny ",
             "Elektryczna skrzynka sterująca"
         ],
         "extraEquipment": [
@@ -326,12 +382,20 @@
             "1",
             "2"
         ],
+        "attribs": [
+            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
+            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
+            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
+            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
+            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
+        ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFC5000-ADBLUE/JFC5000-ADBLUE-1.png",
             "/images/products/zbiorniki-i-dystrybutory/JFC5000-ADBLUE/JFC5000-ADBLUE-2.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
         ]
     },
     {
@@ -356,12 +420,20 @@
             "1",
             "2"
         ],
+        "attribs": [
+            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
+            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
+            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
+            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
+            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
+        ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFCBLUE/JFCBLUE-1.png",
             "/images/products/zbiorniki-i-dystrybutory/JFCBLUE/JFCBLUE-3.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
         ]
     },
     {
@@ -386,7 +458,7 @@
             "Pokrywa zabezpieczona zamkiem",
             "Pompa membranowa 40l/min, 12V DC",
             "Komplet kabli z klemami dł. 4m",
-            "Przepływomierz elektroniczny K24 AdBlue",
+            "Przepływomierz elektroniczny  AdBlue",
             "Wąż dystrybucyjny dł. 4m z autom. pilotem",
             "Wąż ssący z filtrem i zaworem przeciwzwrotnym",
             "Komplet 4 szekli",
@@ -400,7 +472,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TT250-ADBLUE/TT250-ADBLUE-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -425,7 +505,7 @@
             "Pokrywa zabezpieczona zamkiem",
             "Pompa membranowa 40l/min, 12V DC",
             "Komplet kabli z klemami dł. 4m",
-            "Przepływomierz elektroniczny K24 AdBlue",
+            "Przepływomierz elektroniczny  AdBlue",
             "Wąż dystrybucyjny dł. 4m z autom. pilotem",
             "Wąż ssący z filtrem i zaworem przeciwzwrotnym",
             "Komplet 4 szekli",
@@ -439,7 +519,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TT425-ADBLUE/TT425-ADBLUE-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -464,7 +552,7 @@
             "Pokrywa zabezpieczona zamkiem",
             "Pompa membranowa 40l/min, 12V DC",
             "Komplet kabli z klemami dł. 4m",
-            "Przepływomierz elektroniczny K24 AdBlue",
+            "Przepływomierz elektroniczny  AdBlue",
             "Wąż dystrybucyjny dł. 4m z autom. pilotem",
             "Wąż ssący z filtrem i zaworem przeciwzwrotnym",
             "Komplet 4 szekli",
@@ -478,7 +566,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TT600-ADBLUE/TT600-ADBLUE-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -503,7 +599,7 @@
             "Pokrywa zabezpieczona zamkiem",
             "Pompa membranowa 40l/min, 12V DC",
             "Komplet kabli z klemami dł. 4m",
-            "Przepływomierz elektroniczny K24 AdBlue",
+            "Przepływomierz elektroniczny  AdBlue",
             "Wąż dystrybucyjny dł. 4m z autom. pilotem",
             "Wąż ssący z filtrem i zaworem przeciwzwrotnym",
             "Komplet 4 szekli",
@@ -517,7 +613,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TT950-ADBLUE/TT950-ADBLUE-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -539,7 +643,7 @@
             "Komplet kabli z klemami dł. 4m"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny",
+            "Licznik elektroniczny dwufunkcyjny",
             "Pompa membranowa 40l/min, 12V DC",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
@@ -554,7 +658,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TTC200-ADBLUE/TTC200-ADBLUE-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -576,7 +688,7 @@
             "Komplet kabli z klemami dł. 4m"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny",
+            "Licznik elektroniczny dwufunkcyjny",
             "Pompa membranowa 40l/min, 12V DC",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
@@ -591,7 +703,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TTC400-ADBLUE/TTC400-ADBLUE-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -613,7 +733,7 @@
             "Komplet kabli z klemami dł. 4m"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny",
+            "Licznik elektroniczny dwufunkcyjny",
             "Pompa membranowa 40l/min, 12V DC",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
@@ -628,7 +748,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TTC600-ADBLUE/TTC600-ADBLUE-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -650,7 +778,7 @@
             "Komplet kabli z klemami dł. 4m"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny",
+            "Licznik elektroniczny dwufunkcyjny",
             "Pompa membranowa 40l/min, 12V DC",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
@@ -665,7 +793,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TTC900-ADBLUE/TTC900-ADBLUE-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -684,7 +820,7 @@
             "Pistolet automatyczny JFC"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny K24/K600",
+            "Licznik elektroniczny dwufunkcyjny /K600",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
             "Siłowniki teleskopowe",
@@ -698,7 +834,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TT250/TT250-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -717,7 +861,7 @@
             "Pistolet automatyczny JFC"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny K24/K600",
+            "Licznik elektroniczny dwufunkcyjny /K600",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
             "Siłowniki teleskopowe",
@@ -731,7 +875,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TT425/TT425-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -750,7 +902,7 @@
             "Pistolet automatyczny JFC"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny K24/K600",
+            "Licznik elektroniczny /K600",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
             "Siłowniki teleskopowe",
@@ -764,7 +916,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TT600/TT600-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -783,7 +943,7 @@
             "Pistolet automatyczny JFC"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny K24/K950",
+            "Licznik elektroniczny /K950",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
             "Siłowniki teleskopowe",
@@ -797,7 +957,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TT950/TT950-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -820,7 +988,7 @@
         "extraEquipment": [
             "Automatyczny zwijak na wąż",
             "Dodatkowy zbiornik o pojemności 45L z układem wydawczym AdBlue®",
-            "Licznik elektroniczny",
+            "Licznik elektroniczny dwufunkcyjny",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
             "Oświetlenie LED",
@@ -834,7 +1002,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TTC200/TTC200-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -857,7 +1033,7 @@
         "extraEquipment": [
             "Automatyczny zwijak na wąż",
             "Dodatkowy zbiornik o pojemności 45L z układem wydawczym AdBlue®",
-            "Licznik elektroniczny",
+            "Licznik elektroniczny dwufunkcyjny",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
             "Oświetlenie LED",
@@ -871,7 +1047,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TTC400/TTC400-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -894,7 +1078,7 @@
         "extraEquipment": [
             "Automatyczny zwijak na wąż",
             "Dodatkowy zbiornik o pojemności 45L z układem wydawczym AdBlue®",
-            "Licznik elektroniczny",
+            "Licznik elektroniczny dwufunkcyjny",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
             "Oświetlenie LED",
@@ -908,7 +1092,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TTC600/TTC600-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -931,7 +1123,7 @@
         "extraEquipment": [
             "Automatyczny zwijak na wąż",
             "Dodatkowy zbiornik o pojemności 45L z układem wydawczym AdBlue®",
-            "Licznik elektroniczny",
+            "Licznik elektroniczny dwufunkcyjny",
             "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
             "Oświetlenie LED",
@@ -945,7 +1137,15 @@
             "/images/products/zbiorniki-i-dystrybutory/TTC900/TTC900-1.png"
         ],
         "extraImages": [
-            ""
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-8.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-SOLAR.png",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-1.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-2.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-3.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-4.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-5.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-6.jpg",
+            "/images/products/zbiorniki-i-dystrybutory/TT/TT-7.jpg"
         ]
     },
     {
@@ -5414,7 +5614,7 @@
         "description": "Boja nawigacyjna Ø600mm NAV01 wykonana jest z mocnego, trwałego polietylenu. Całkowicie wypełniona pianką z wewnętrznym balastem. Boja jest niewielka i lekka. Ma konstrukcję słupową o nominalnej wysokości ogniskowej 1,5 metra. Wyposażona w dwa uchwyty ułatwiające instalację i serwisowanie. Możlwość naniesienia indywidualnej grafiki  i wyposażenia w latarnie.",
         "department_id": "9",
         "subcategory": "Boje nawigacyjne i plawy ostrzegawcze",
-        "dimensions": "Ø 60 [cm]",
+        "dimensions": "Ø 600 [mm]",
         "characteristics": [
             "Boje wykonane z czystego polietylenu klasy morskiej (stabilizowany UV).",
             "Niewielki rozmiar i specjalne uchwyty ułatwiające instalację i serwisowanie.",
@@ -5423,6 +5623,16 @@
             "Wszystkie boje morskie JFC są produkowane w 100% z materiałów nadających się do recyklingu.",
             "Żywotność 20 lat",
             "Wyprodukowane zgodnie z ISO 8001:2015."
+        ],
+        "specifications": [
+            ["Średnica", "600mm"],
+            ["Nominalna wysokość ogniskowej", "1100mm"],
+            ["Wysokość nominalna", "1550mm"],
+            ["Projekt nominalny", "250mm"],
+            ["Waga nominalna", "70kg"],
+            ["Kolory", "Zgodnie z Morskim Systemem Buoyage IALA"],
+            ["Żywotność", "Do 20 lat"],
+            ["Opcje latarni", "M550, M660"]
         ],
         "sellers_id": [
             "5"
@@ -5441,7 +5651,7 @@
         "description": "Boja nawigacyjna Ø1200mm NAV01 wykonana jest z mocnego, trwałego polietylenu. Całkowicie wypełniona pianką z wewnętrznym balastem. Boja jest niewielka i lekka. Ma konstrukcję słupową o nominalnej wysokości ogniskowej 1,5 metra. Wyposażona w dwa uchwyty ułatwiające instalację i serwisowanie. Możlwość naniesienia indywidualnej grafiki  i wyposażenia w latarnie.",
         "department_id": "9",
         "subcategory": "Boje nawigacyjne i plawy ostrzegawcze",
-        "dimensions": "Ø 120 [cm]",
+        "dimensions": "Ø 1200 [mm]",
         "characteristics": [
             "Boje wykonane z czystego polietylenu klasy morskiej (stabilizowany UV).",
             "Niewielki rozmiar i specjalne uchwyty ułatwiające instalację i serwisowanie.",
@@ -5451,6 +5661,16 @@
             "Żywotność 20 lat",
             "Waga 70 kg",
             "Wyprodukowane zgodnie z ISO 8001:2015."
+        ],
+        "specifications": [
+            ["Średnica", "1200mm"],
+            ["Nominalna wysokość ogniskowej", "2400mm"],
+            ["Wysokość nominalna", "2950mm"],
+            ["Projekt nominalny", "470mm"],
+            ["Waga nominalna", "285kg"],
+            ["Kolory", "Zgodnie z Morskim Systemem Buoyage IALA"],
+            ["Żywotność", "Do 20 lat"],
+            ["Opcje latarni", "M550, M650H, M660, M800 Series"]
         ],
         "sellers_id": [
             "5"
@@ -5469,7 +5689,7 @@
         "description": "Boja nawigacyjna Ø300mm NAV03 wykonana jest z mocnego, trwałego polietylenu. Całkowicie wypełniona pianką z wewnętrznym balastem. Boja jest niewielka i lekka. Ma konstrukcję słupową o nominalnej wysokości ogniskowej 1,5 metra. Wyposażona w dwa uchwyty ułatwiające instalację i serwisowanie. Możlwość naniesienia indywidualnej grafiki  i wyposażenia w latarnie.",
         "department_id": "9",
         "subcategory": "Boje nawigacyjne i plawy ostrzegawcze",
-        "dimensions": "Ø 30 [cm]",
+        "dimensions": "Ø 300 [mm]",
         "characteristics": [
             "Boje wykonane z czystego polietylenu klasy morskiej (stabilizowany UV).",
             "Niewielki rozmiar i specjalne uchwyty ułatwiające instalację i serwisowanie.",
@@ -5479,6 +5699,16 @@
             "Żywotność 20 lat",
             "Waga 90 kg",
             "Wyprodukowane zgodnie z ISO 8001:2015."
+        ],
+        "specifications": [
+            ["Średnica", "900mm"],
+            ["Nominalna wysokość ogniskowej", "950mm"],
+            ["Wysokość nominalna", "1200mm"],
+            ["Projekt nominalny", "370mm"],
+            ["Waga nominalna", "90kg"],
+            ["Kolory", "Zgodnie z Morskim Systemem Buoyage IALA"],
+            ["Żywotność", "Do 20 lat"],
+            ["Opcje latarni", "M550, M650H, M660, M850"]
         ],
         "sellers_id": [
             "5"
@@ -5498,7 +5728,7 @@
         "description": "Boja nawigacyjna Ø2000mm NANAV04V03 wykonana jest z mocnego, trwałego polietylenu. Całkowicie wypełniona pianką z wewnętrznym balastem. Boja jest niewielka i lekka. Ma konstrukcję słupową o nominalnej wysokości ogniskowej 1,5 metra. Wyposażona w dwa uchwyty ułatwiające instalację i serwisowanie. Możlwość naniesienia indywidualnej grafiki  i wyposażenia w latarnie.",
         "department_id": "9",
         "subcategory": "Boje nawigacyjne i plawy ostrzegawcze",
-        "dimensions": "Ø 200 [cm]",
+        "dimensions": "Ø 2000 [mm]",
         "characteristics": [
             "Boje wykonane z czystego polietylenu klasy morskiej (stabilizowany UV).",
             "Niewielki rozmiar i specjalne uchwyty ułatwiające instalację i serwisowanie.",
@@ -5527,7 +5757,7 @@
         "description": "Boja nawigacyjna Ø1250mm G1200 wykonana jest z mocnego, trwałego polietylenu. Całkowicie wypełniona pianką z wewnętrznym balastem. Boja jest niewielka i lekka. Ma konstrukcję słupową o nominalnej wysokości ogniskowej 1,5 metra. Wyposażona w dwa uchwyty ułatwiające instalację i serwisowanie. Możlwość naniesienia indywidualnej grafiki  i wyposażenia w latarnie.",
         "department_id": "9",
         "subcategory": "Boje nawigacyjne i plawy ostrzegawcze",
-        "dimensions": "Ø 125 [cm]",
+        "dimensions": "Ø 1250 [mm]",
         "characteristics": [
             "Boje wykonane z czystego polietylenu klasy morskiej (stabilizowany UV).",
             "Niewielki rozmiar i specjalne uchwyty ułatwiające instalację i serwisowanie.",
@@ -5556,7 +5786,7 @@
         "description": "Boja nawigacyjna Ø1500mm G1500 wykonana jest z mocnego, trwałego polietylenu. Całkowicie wypełniona pianką z wewnętrznym balastem. Boja jest niewielka i lekka. Ma konstrukcję słupową o nominalnej wysokości ogniskowej 1,5 metra. Wyposażona w dwa uchwyty ułatwiające instalację i serwisowanie. Możlwość naniesienia indywidualnej grafiki  i wyposażenia w latarnie.",
         "department_id": "9",
         "subcategory": "Boje nawigacyjne i plawy ostrzegawcze",
-        "dimensions": "Ø 150 [cm]",
+        "dimensions": "Ø 1500 [mm]",
         "characteristics": [
             "Boje wykonane z czystego polietylenu klasy morskiej (stabilizowany UV).",
             "Niewielki rozmiar i specjalne uchwyty ułatwiające instalację i serwisowanie.",
@@ -5586,7 +5816,7 @@
         "department_id": "9",
         "subcategory": "Bojki znakowe i markery",
         "capacity": "40 L",
-        "dimensions": "Ø 43 [cm]",
+        "dimensions": "Ø 430 [mm]",
         "characteristics": [
             "Boje wykonane z czystego polietylenu klasy morskiej (stabilizowany UV).",
             "Opcjonalna grafika.",
@@ -5615,7 +5845,7 @@
         "department_id": "9",
         "subcategory": "Bojki znakowe i markery",
         "capacity": "250 L",
-        "dimensions": "Ø 78 [cm]",
+        "dimensions": "Ø 780 [mm]",
         "characteristics": [
             "Boje wykonane z czystego polietylenu klasy morskiej (stabilizowany UV).",
             "Opcjonalna grafika.",
@@ -5644,7 +5874,7 @@
         "department_id": "9",
         "subcategory": "Latarnie morskie i światła nawigacyjne",
         "capacity": "0.4 KG",
-        "dimensions": "5,6 x 15,5 [cm]",
+        "dimensions": "56 x 155 [mm]",
         "characteristics": [
             "40 ustawianych przez użytkownika rodzajów błysku i programowalnych intensywności.",
             "Wymienne, nadające się do recyklingu akumulatory NiMH AA (niklowo-metalowo-wodorkowe).",
@@ -5672,7 +5902,7 @@
         "department_id": "9",
         "subcategory": "Latarnie morskie i światła nawigacyjne",
         "capacity": "0.4 KG",
-        "dimensions": "16,9 x 17,6 [cm]",
+        "dimensions": "169 x 176 [mm]",
         "characteristics": [
             "Standardowe kolory IALA czerwony, zielony, biały, żółty, niebieski.",
             "System kontrolujący wykorzystanie energii (MPPT) przy użyciu efektywnych ogniw solarnych z funkcją blokady oraz obejścia dla optymalnego magazynowania energii.",
@@ -5700,7 +5930,7 @@
         "department_id": "9",
         "subcategory": "Latarnie morskie i światła nawigacyjne",
         "capacity": "0.4 KG",
-        "dimensions": "5,6 x 15,5 [cm]",
+        "dimensions": "56 x 155 [mm]",
         "characteristics": [
             "Standardowe kolory IALA czerwony, zielony, biały, żółty, niebieski.",
             "System kontrolujący wykorzystanie energii (MPPT) przy użyciu efektywnych ogniw solarnych z funkcją blokady oraz obejścia dla optymalnego magazynowania energii.",

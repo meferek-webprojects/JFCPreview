@@ -6,7 +6,7 @@ type Props = {
     equipment: string[],
     extraEquipment: string[],
     name: string,
-    image: string,
+    image: string | string[],
     dimensions?: string,
 }
 
@@ -45,8 +45,8 @@ const ProductEqTabs = ({ equipment, extraEquipment, name, image, dimensions }: P
                             )}
                         </ul>
                     </div>
-                    <div className="hidden 2xl:block h-[20rem] mx-auto aspect-square relative">
-                        <Image alt="" src={ image } layout="fill" objectFit="contain" />
+                    <div className={`hidden 2xl:block h-[20rem] ml-auto mr-40 aspect-square relative `}>
+                        <Image alt="" src={ tab ? image[0] : image[1] } layout="fill" objectFit="contain" />
                     </div>
                 </div>
                 <div className={`flex `+ (dimensions ? "" : "hidden")}>

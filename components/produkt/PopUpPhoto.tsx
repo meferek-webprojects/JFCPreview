@@ -22,7 +22,9 @@ const PopUpPhoto = ({image, popup, setPopup, video}:Props) => {
                 </div> 
             :
                 <div className="relative m-auto w-3/4 h-3/4">
-                    <Image alt="" src={ image } layout="fill" objectFit="contain"/>
+                    { image ? 
+                        <Image alt="" src={ image } layout="fill" objectFit="contain"/>
+                    : null }
                 </div>
             }
         </div>

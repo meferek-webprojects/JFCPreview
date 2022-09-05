@@ -7,9 +7,10 @@ import Link from "next/link";
 type Props = {
     images: string[],
     movie?: string,
+    specifications?: string[] | string,
 }
 
-const ProductExtraImages = ({ images, movie }: Props) => {
+const ProductExtraImages = ({ images, movie, specifications }: Props) => {
     const [popup, setPopup] = useState('')
 
     return (
@@ -28,6 +29,16 @@ const ProductExtraImages = ({ images, movie }: Props) => {
                             </div>
                         </Link> 
                     : null }
+                    { specifications !== undefined ?
+                        <Link href="#specifications">
+                            <div className="bg-blue-500 text-white flex text-center cursor-pointer group aspect-square">
+                                <div className="mx-auto my-auto font-prometo group-hover:scale-[1.1] transition-all duration-300 easy-in-out">
+                                    <i className="bi bi-card-list text-3xl md:text-5xl"></i><br/>
+                                    <p className="mt-1">SPECYFIKACJA</p> 
+                                </div>
+                            </div>
+                        </Link> 
+                    : null }
                     <div className="bg-blue-500 text-white flex text-center aspect-square">
                         <div className="mx-auto my-auto font-prometo">
                             <i className="bi bi-images text-3xl md:text-5xl"></i><br/>
@@ -36,7 +47,7 @@ const ProductExtraImages = ({ images, movie }: Props) => {
                     </div>
                     {images.map(image =>
                         <div key={image} className="w-full aspect-square relative cursor-pointer border-[5px] border-blue-100 group" onClick={() => setPopup(image)}>
-                            <Image quality="50" alt="" src={image} layout="fill" objectFit="cover" className="group-hover:brightness-[1.1] group-hover:scale-[1.1] transition-all duration-300 easy-in-out"/>
+                            <Image quality="50" alt="" src={image} layout="fill" objectFit="contain" className="group-hover:brightness-[1.1] group-hover:scale-[1.1] transition-all duration-300 easy-in-out"/>
                         </div>
                     )}
                 </div>

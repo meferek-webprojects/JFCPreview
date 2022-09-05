@@ -1,6 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from "next";
 import Head from "next/head";
-import React from "react";
+import React, { useState, useRef } from "react";
 import Nav from "../../components/Global/Navbar/Nav";
 import files from "../database/files.json";
 import products from "../database/products.json";
@@ -11,6 +11,7 @@ import FileBox from "../../components/pliki/FileBox";
 import { LgContainer } from "../../components/Global/Containers";
 import ProductHero from "../../components/produkt/ProductHero";
 import Image from "next/image";
+import { Input } from "../../components/Global/Inputs";
 
 type Params = {
 	file: {
@@ -23,8 +24,11 @@ type Params = {
 }
 
 const Pliki = ({ file }: Params) => {
+    const [correctPassword, setCorrectPassword] = useState(false);
+    const inputRef = useRef<HTMLInputElement>(null);
 
     const product = products.find(p => p.id == file.product_id)!;
+    const password = "JFC123";
 
     return (
         <>
@@ -45,11 +49,16 @@ const Pliki = ({ file }: Params) => {
                     </div>
                     <p>{ product.name }</p>
                 </div> */}
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-10">
-                    { file.files.PL.map(f =>
-                        <FileBox key={ f } className="my-auto" name={ f[0] } file={ f[1] }/>
-                    )}
-                </div>
+                
+                { correctPassword ?
+                    <div className="grid grid-cols-2 md:grid-cols-4 gap-10">
+                        { file.files.PL.map(f =>
+                            <FileBox key={ f } className="my-auto" name={ f[0] } file={ f[1] }/>
+                        )}
+                    </div>
+                :
+                    <input ref={inputRef} onChange={() => { inputRef.current!.value.toUpperCase() == password ? setCorrectPassword(true) : null}} placeholder="Podaj hasło by wyświetlić pliki" className={`font-proxima px-4 py-2 bg-blue-300/[0.07] w-full border-2 border-blue-900/[.09] active:border-blue-300 focus-visible:border-blue-300 focus:border-blue-300/[1] focus:outline-none file:font-proxima file:border-1 file:border-blue-500/[0.1] file:bg-white file:mr-5 file:px-4 file:py-1 file:text-blue-900 file:m-0 file:hover:bg-blue-700/[0.1] file:cursor-pointer file:transition file:duration-300 file:easy-in-out`}/>
+                }
             </LgContainer>
 
             <Footer />
