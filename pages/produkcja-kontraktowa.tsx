@@ -16,7 +16,7 @@ const ProdukcjaKontraktowa: NextPage = () => {
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
             
-            <Nav type="static"/>
+            <Nav />
 
             <Title main="Projektowanie oraz produkcja form na zlecenie" secondary="Wytwarzanie metodą formowania rotacyjnego" className="px-40"/>
 

@@ -7,13 +7,13 @@ type Props = {
     className?: string,
     dropdownItems: string[],
     offSet: number,
-    type?: string,
+    main?: boolean,
     navOpen: boolean,
     setNavOpen: any,
     windowSize: number
 };
 
-const NavDropdown = ({ children, className, dropdownItems, offSet, type, navOpen, setNavOpen, windowSize }: Props) => {
+const NavDropdown = ({ children, className, dropdownItems, offSet, main, navOpen, setNavOpen, windowSize }: Props) => {
     const [dropdownOpen, setDropdownOpen] = useState(false);
 
     return (
@@ -24,24 +24,24 @@ const NavDropdown = ({ children, className, dropdownItems, offSet, type, navOpen
                 {children}
             </div>
             <div className={`absolute top-[88px] right-0 xl:right-auto xl:top-full xl:mt-3 flex flex-col justify-center whitespace-nowrap z-10 h-[calc(100vh-88px)] xl:h-auto overflow-hidden transition-[max-height,transform] ease-linear duration-[300ms,200ms] bg-blue-500 w-full xl:w-auto`
-            + ((offSet || type) ? ` xl:mt-3 xl:bg-blue-700` : ` xl:mt-0 xl:bg-white`)
+            + ((offSet || !main) ? ` xl:mt-3 xl:bg-blue-700` : ` xl:mt-0 xl:bg-white`)
             + ((windowSize >= 1280 ? ` max-h-0 group-hover:max-h-screen` : (dropdownOpen ? ` translate-x-0` : ` translate-x-full`)))
             }>
                 {windowSize < 1280 ?
-                    <div onClick={() => { setDropdownOpen(!dropdownOpen) }} className="absolute top-[4vh] text-left w-full ml-10 text-white text-xl font-prometo cursor-pointer">
+                    <div onClick={() => { setDropdownOpen(!dropdownOpen) }} className="absolute top-[4vh] left-[5%] text-left text-white text-xl font-prometo cursor-pointer">
                         <i className="bi bi-caret-left-fill mr-2"></i>
                     </div>
                 : null}
                 {dropdownItems.map((dropdownItem) => 
                     <Link href={ "/dzial/" + departments.find(d => d.name == dropdownItem)!.urlName } key={ dropdownItem }>
                         <a onClick={() => { setNavOpen(!navOpen); setDropdownOpen(!dropdownOpen) }}>
-                            <div className={`py-3 px-5 text-center font-semibold cursor-pointer uppercase xl:text-left xl:text-base transition-colors duration-300 ease-in-out text-white${(offSet || type) ? " xl:hover:bg-blue-900/[0.99]" : " xl:text-blue-900 xl:hover:bg-grey-200/[0.99]"}`}>{ dropdownItem }</div>
+                            <div className={`py-3 px-5 text-center font-semibold cursor-pointer uppercase xl:text-left xl:text-base transition-colors duration-300 ease-in-out text-white${(offSet || !main) ? " xl:hover:bg-blue-900/[0.99]" : " xl:text-blue-900 xl:hover:bg-grey-200/[0.99]"}`}>{ dropdownItem }</div>
                         </a>
                     </Link>
                 )}
                 <Link href="/produkcja-kontraktowa">
                     <a onClick={() => { setNavOpen(!navOpen); setDropdownOpen(!dropdownOpen) }}>
-                        <div className={`py-3 px-5 text-center font-semibold cursor-pointer uppercase xl:text-left xl:text-base transition-colors duration-300 ease-in-out text-white${(offSet || type) ? " xl:hover:bg-blue-900/[0.99]" : " xl:text-blue-900 xl:hover:bg-grey-200/[0.99]"}`}>Produkcja Kontraktowa</div>
+                        <div className={`py-3 px-5 text-center font-semibold cursor-pointer uppercase xl:text-left xl:text-base transition-colors duration-300 ease-in-out text-white${(offSet || !main) ? " xl:hover:bg-blue-900/[0.99]" : " xl:text-blue-900 xl:hover:bg-grey-200/[0.99]"}`}>Produkcja Kontraktowa</div>
                     </a>
                 </Link>
             </div>

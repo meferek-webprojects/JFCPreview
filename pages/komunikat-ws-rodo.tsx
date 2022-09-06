@@ -12,7 +12,7 @@ const KomunikatWsRodo: NextPage = () => {
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
 
-            <Nav type="static"/>
+            <Nav />
 
             <LgContainer className="mt-[5rem]">
                 <>

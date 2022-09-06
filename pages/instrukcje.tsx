@@ -44,7 +44,7 @@ const Instrukcje: NextPage = () => {
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
 
-            <Nav type="static"/>
+            <Nav />
 
             <PopUpPhoto popup={popup} setPopup={setPopup} image={ popup } video={ popup }></PopUpPhoto>
 

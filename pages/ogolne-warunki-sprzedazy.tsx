@@ -13,7 +13,7 @@ const OWS: NextPage = () => {
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
 
-            <Nav type="static"/>
+            <Nav />
 
             <embed src="/docs/OWS-JFCPOLSKA.pdf" className="w-full h-[calc(100vh-102px)]" type="application/pdf"></embed>
         </>

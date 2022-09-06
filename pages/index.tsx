@@ -26,7 +26,7 @@ const Home: NextPage = () => {
                 <meta name="keywords" content="zbiorniki, rolnictwo, donice dekoracyjne, polietylen, higiena i bezpieczeństwo, systemy dezynfekcji, gromadzenie wody, zbiorniki na deszczówkę, recykling, boje, poidła, karmidła"/>
             </Head>
 
-            <Nav />
+            <Nav main={true} />
 
             <Hero />
 
@@ -38,13 +38,13 @@ const Home: NextPage = () => {
 
             <Title main="Zobacz nasze wszystkie produkty" secondary="Poznaj całą gamę produktów JFC" id="produkty-i-uslugi"/>
         
-            <SmContainer>
+            <SmContainer className="mx-0 xs:ms-4">
                 <Departments />
             </SmContainer>
 
             <Attribs />
 
-            <Title main="Najpopularniejsze wyszukiwania" secondary="Zobacz nasze najpopularniejsze produkty"/>
+            <Title main="Popularne wyszukiwania" secondary="Zobacz nasze najpopularniejsze produkty"/>
 
             <SmContainer>
                 <Popular/>

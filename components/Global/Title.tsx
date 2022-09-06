@@ -8,7 +8,7 @@ type Props = {
 
 const Title = ({ main, secondary, id, className }: Props ) => {
     return (
-        <div className={`py-16 xl:py-32 px-5 text-center${ className ? ` ${className}` : "" }`} id={ id ? id : undefined }>
+        <div className={`py-16 xl:py-32 px-0 xs:px-5 text-center${ className ? ` ${className}` : "" }`} id={ id ? id : undefined }>
             { secondary ?
                 <h5 className="xl:text-2xl xl:leading-10 leading-5 md:text-xl text-l font-proximabold text-blue-500/[.40] uppercase">{ secondary }</h5>
             : null }

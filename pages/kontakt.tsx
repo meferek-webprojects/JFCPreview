@@ -17,7 +17,7 @@ const Kontakt: NextPage = () => {
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
             
-            <Nav type="static"/>
+            <Nav />
 
             <Header image={ headerImage.src } title="Strona kontaktowa"/>
 

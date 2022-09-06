@@ -16,7 +16,7 @@ const Serwis: NextPage = () => {
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
             
-            <Nav type="static"/>
+            <Nav />
 
             <Header title="serwis" image={ coverImage.src } />
 

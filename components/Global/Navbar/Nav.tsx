@@ -7,10 +7,10 @@ import { useState, useEffect, useRef } from 'react';
 import ScrollToTop from "../ScrollToTop";
 
 type Props = {
-    type?: string;
+    main?: boolean;
 };
 
-const Nav = ({ type }: Props) => {
+const Nav = ({ main }: Props) => {
     
     const [navOpen, setNavOpen] = useState(false);
     const [offset, setOffset] = useState(0);
@@ -81,29 +81,28 @@ const Nav = ({ type }: Props) => {
     //     prevOffset.current = offset
     // }, [offset])
 
-
     return (
         <>
             <ScrollToTop offset={offset} setOffset={setOffset}/>
-            <div style={windowSize < 1280 ? {transform: `translateY(${navHiddenPx}px)`} : undefined} className={"xl:py-3 flex flex-wrap z-30 w-full transition-colors top-0 ease-in-out duration-300" + ((type === "static" || offset >= 10) ? " bg-blue-700" : "") + (type ? " sticky" : " fixed")}>
-                <div className={"flex w-full z-10 xl:hidden transition duration-200" + ((navOpen || type === "static") ? " bg-blue-700" : "") + (navOpen ? "" : " delay-[250ms]")}>
+            <div style={windowSize < 1280 ? {transform: `translateY(${navHiddenPx}px)`} : undefined} className={"xl:py-3 flex flex-wrap z-30 w-full transition-colors top-0 ease-in-out duration-300" + ((!main || offset >= 10) ? " bg-blue-700" : "") + (main ? " fixed" : " sticky")}>
+                <div className={"flex w-full z-30 xl:hidden transition duration-200" + ((navOpen || !main) ? " bg-blue-700" : "") + (navOpen ? "" : " delay-[250ms]")}>
                     <NavLink link="/" noHover="true" className="mr-auto ml-3"><Image priority={true} alt="image" src={ logoMiniImage } width="75px" height="50px"/></NavLink>
-                    <button className="px-3 py-2 mr-2 text-white hover:scale-[1.2] transition ease-in-out duration-300" onClick={() => { setNavOpen(!navOpen) }}>
+                    <div className="flex px-3 mr-2 text-white hover:scale-[1.2] transition ease-in-out duration-300" onClick={() => { setNavOpen(!navOpen) }}>
                         { navOpen ?
-                            <i className="bi bi-x text-3xl"></i>
-                            :
-                            <i className="bi bi-list text-3xl"></i>
+                            <i className="bi bi-x text-3xl my-auto"></i>
+                        :
+                            <i className="bi bi-list text-3xl my-auto"></i>
                         }
-                    </button>
+                    </div>
                 </div>
                 
                 <div className={"flex flex-col xl:flex-row overflow-x-hidden overflow-y-scroll w-full scrollbar-hide xl:overflow-visible fixed xl:static transition-[height] duration-[250ms] delay-[0ms] xl:transition-none xl:h-auto xl:bg-transparent xl:translate-y-0 bg-blue-700"
                 + (navOpen ? " h-screen" : " h-0")
-                + (navOpen ? ((type === "static" || offset >= 10) ? " delay-[0ms]" : " delay-[200ms]") : "")
+                + (navOpen ? ((!main || offset >= 10) ? " delay-[0ms]" : " delay-[200ms]") : "")
                 }>
                     <div className={"flex flex-col xl:flex-row basis-0 grow justify-end"}>
                         <NavLink link="/">Strona główna</NavLink>
-                        <NavDropdown dropdownItems={dropdownItems} offSet={offset} type={type} navOpen={navOpen} setNavOpen={setNavOpen} windowSize={windowSize}>Produkty i usługi <i className="bi bi-caret-right-fill xl:hidden ml-2"></i><i className="bi bi-caret-down-fill hidden xl:inline-block ml-2"></i></NavDropdown>
+                        <NavDropdown dropdownItems={dropdownItems} offSet={offset} main={main} navOpen={navOpen} setNavOpen={setNavOpen} windowSize={windowSize}>Produkty i usługi <i className="bi bi-caret-right-fill xl:hidden ml-2"></i><i className="bi bi-caret-down-fill hidden xl:inline-block ml-2"></i></NavDropdown>
                         <NavLink link="/katalogi">Katalogi</NavLink>
                     </div>
                     
