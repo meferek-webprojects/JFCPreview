@@ -4597,12 +4597,6 @@
         "movie": "URLtoMovie",
         "capacity": "100 L",
         "dimensions": "120 x 60 x 36 [cm]",
-        "characteristics": [
-            "Utrzymuje higienę weterenaryjną.",
-            "Do dezynfekcji wody pitej dla zwierząt.",
-            "Działanie bakteriobójcze i drożdżakobójcze.",
-            "Do dezynfekcji przedmiotów, urządzeń, kontenerów i rurociągów związanych ze spożyciem pasz."
-        ],
         "sellers_id": [
             "3",
             "4"
@@ -4624,12 +4618,6 @@
         "movie": "URLtoMovie",
         "capacity": "80 L",
         "dimensions": "75,5 x 55,9 x 35,6 [cm]",
-        "characteristics": [
-            "Utrzymuje higienę weterenaryjną.",
-            "Do dezynfekcji wody pitej dla zwierząt.",
-            "Działanie bakteriobójcze i drożdżakobójcze.",
-            "Do dezynfekcji przedmiotów, urządzeń, kontenerów i rurociągów związanych ze spożyciem pasz."
-        ],
         "sellers_id": [
             "3",
             "4"
@@ -4651,12 +4639,6 @@
         "movie": "URLtoMovie",
         "capacity": "138 L",
         "dimensions": "127 x 45,7 x 66/50,8 [cm]",
-        "characteristics": [
-            "Utrzymuje higienę weterenaryjną.",
-            "Do dezynfekcji wody pitej dla zwierząt.",
-            "Działanie bakteriobójcze i drożdżakobójcze.",
-            "Do dezynfekcji przedmiotów, urządzeń, kontenerów i rurociągów związanych ze spożyciem pasz."
-        ],
         "sellers_id": [
             "3",
             "4"
@@ -4678,12 +4660,6 @@
         "movie": "URLtoMovie",
         "capacity": "23 L",
         "dimensions": "112,5 x 40 x 37,5/20 [cm]",
-        "characteristics": [
-            "Utrzymuje higienę weterenaryjną.",
-            "Do dezynfekcji wody pitej dla zwierząt.",
-            "Działanie bakteriobójcze i drożdżakobójcze.",
-            "Do dezynfekcji przedmiotów, urządzeń, kontenerów i rurociągów związanych ze spożyciem pasz."
-        ],
         "sellers_id": [
             "3",
             "4"
