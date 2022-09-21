@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 type Props = {
-    image: string,
+    image?: string,
     popup: string,
     setPopup: any,
     video?: string,
@@ -15,11 +15,9 @@ const PopUpPhoto = ({image, popup, setPopup, video}:Props) => {
                 <i className="bi bi-x-lg text-3xl text-white cursor-pointer"></i>
             </div>
             { video ?
-                <div className="relative m-auto w-3/4 h-3/4">
-                    <div className="w-full aspect-video mx-auto border-[10px] border-blue-700 bg-blue-700 mt-5 md:mt-10 xl:mt-20">
-                        <iframe width="100%" height="100%" src={`https://www.youtube.com/embed/${video}`} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-                    </div>
-                </div> 
+                <div className="w-3/4 aspect-video m-auto border-[10px] border-blue-700 bg-blue-700">
+                    <iframe width="100%" height="100%" src={`https://www.youtube.com/embed/${video}`} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                </div>
             :
                 <div className="relative m-auto w-3/4 h-3/4">
                     { image ? 

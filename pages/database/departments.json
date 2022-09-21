@@ -69,12 +69,16 @@
     },
     {
         "id": "6",
-        "name": "Recykling",
-        "urlName": "recykling",
+        "name": "Pojemniki",
+        "urlName": "pojemniki",
         "title": "",
         "description": "JFC Polska oferuje szeroką gamę produktów, pojemników do segregacji odpadów. W naszej ofercie posiadamy pojemniki różnych rozmiarów, dostosowane do potrzeb zarówno gospodarstw domowych, szkół i przedszkoli oraz zakładów oczyszczania miast.",
         "keywords": "śmietniki, segregacja, odpady, pojemniki, dbanie o środowisko, ekologia, pojemniki ekologiczne",
-        "heroImage": "recykling.jpg"
+        "heroImage": "recykling.jpg",
+        "subcategory": [
+            "Pojemniki do segregacji",
+            "Pojemniki na piasek i sól"
+        ]
     },
     {
         "id": "7",

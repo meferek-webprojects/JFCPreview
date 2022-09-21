@@ -15,6 +15,7 @@ import ProductExtraImages from "../../components/produkt/ProductExtraImages";
 import SimilarProducts from "../../components/produkt/SimilarProducts";
 import ProductHero from "../../components/produkt/ProductHero";
 import ProductMovie from "../../components/produkt/ProductMovie";
+import ProductDimensions from "../../components/produkt/ProductDimensions";
 import products from "../database/products.json";
 import departments from "../database/departments.json";
 
@@ -37,6 +38,7 @@ type Params = {
         specifications?: string[],
         movie: string,
         dimensions: string,
+        dimensions_table?: string[][],
         subcategory: string,
 	}
 }
@@ -72,11 +74,15 @@ const Produkt = ({ product }: Params) => {
                 <meta name="keywords" content={ departments.find(d => d.id == product.department_id.split(', ')[0])!.keywords } />
             </Head>
             
-            <Nav type="static"/>
+            <Nav />
 
             <ProductHero capacity={ product.capacity } name={ product.name } description={ product.description } code={ product.code } photos={ product.images } />
 
             <ProductExtraImages images={ product.images.concat(product.extraImages).filter(image => image != "") } movie={ product.movie } specifications={product.specifications}/>
+
+            { product.dimensions_table ?
+                <ProductDimensions dimensions_table={ product.dimensions_table } />
+            : null }
 
             { product.equipment && product.extraEquipment ? 
                 <ProductEqTabs image={ product.extraImages ? product.extraImages : product.images } equipment={ product.equipment } extraEquipment={ product.extraEquipment } name={ product.name } dimensions={ eqDim ? product.dimensions : undefined } />

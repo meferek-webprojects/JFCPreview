@@ -40,7 +40,7 @@ const Dzial = ({ department }: Params) => {
                 <meta name="keywords" content={ department.keywords } />
             </Head>
             
-            <Nav type="static"/>
+            <Nav />
 
             <DepartmentHeader image={ "/images/departments/" + department.heroImage } title={ department.name } />
 

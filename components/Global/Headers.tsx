@@ -11,7 +11,7 @@ export const Header = ({title, image}: Props) => {
         <div>
             <SmContainer>
                 <div className="h-32 md:h-48 lg:h-64 xl:h-64 2xl:h-96 overflow-hidden relative mx-auto mt-5 xl:mt-[4rem] pt-30">
-                    <Image alt="image" src={ image } layout="fill" objectFit="cover"/>
+                    <Image alt="image" src={ image } quality="100" layout="fill" objectFit="cover"/>
                 </div>
             </SmContainer>
         </div>

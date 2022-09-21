@@ -26,7 +26,7 @@ const Nav = ({ main }: Props) => {
         "Wyposażenie stajni",
         "Świetliki i kurtyny",
         "Gromadzenie wody",
-        "Recykling",
+        "Pojemniki",
         "Gospodarka wodno-ściekowa",
         "Donice dekoracyjne",
         "Infrastruktura morska",

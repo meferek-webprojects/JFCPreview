@@ -28,14 +28,14 @@ const NavDropdown = ({ children, className, dropdownItems, offSet, main, navOpen
             + ((windowSize >= 1280 ? ` max-h-0 group-hover:max-h-screen` : (dropdownOpen ? ` translate-x-0` : ` translate-x-full`)))
             }>
                 {windowSize < 1280 ?
-                    <div onClick={() => { setDropdownOpen(!dropdownOpen) }} className="absolute top-[4vh] left-[5%] text-left text-white text-xl font-prometo cursor-pointer">
+                    <div onClick={() => { setDropdownOpen(!dropdownOpen) }} className="absolute top-[calc((100%-480px)/4)] xs:top-[calc((100%-576px)/4)] left-[5%] text-left text-white text-xl font-prometo cursor-pointer">
                         <i className="bi bi-caret-left-fill mr-2"></i>
                     </div>
                 : null}
                 {dropdownItems.map((dropdownItem) => 
                     <Link href={ "/dzial/" + departments.find(d => d.name == dropdownItem)!.urlName } key={ dropdownItem }>
                         <a onClick={() => { setNavOpen(!navOpen); setDropdownOpen(!dropdownOpen) }}>
-                            <div className={`py-3 px-5 text-center font-semibold cursor-pointer uppercase xl:text-left xl:text-base transition-colors duration-300 ease-in-out text-white${(offSet || !main) ? " xl:hover:bg-blue-900/[0.99]" : " xl:text-blue-900 xl:hover:bg-grey-200/[0.99]"}`}>{ dropdownItem }</div>
+                            <div className={`py-2 xs:py-3 xs:px-5 text-center font-semibold cursor-pointer uppercase xl:text-left xl:text-base transition-colors duration-300 ease-in-out text-white${(offSet || !main) ? " xl:hover:bg-blue-900/[0.99]" : " xl:text-blue-900 xl:hover:bg-grey-200/[0.99]"}`}>{ dropdownItem }</div>
                         </a>
                     </Link>
                 )}
