@@ -30,7 +30,7 @@ const Home: NextPage = () => {
 
             <Hero />
 
-            <Title main="Poznaj JFC POLSKA" secondary="Doświadzcenie i innowacja" id="o-firmie"/>
+            <Title main="Poznaj JFC POLSKA" secondary="Doświadczenie i innowacja" id="o-firmie"/>
         
             <LgContainer>
                 <About />

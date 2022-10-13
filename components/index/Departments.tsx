@@ -21,7 +21,7 @@ const Departments = () => {
             <DepartmentsIcons href="/dzial/rolnictwo" icon={ cowIcon } title="Rolnictwo" desc="poidła, domki, maty, wyposażenie, wózki paszowe, karmienie" />
             <DepartmentsIcons href="/dzial/swietliki-i-okna" icon={ lightbulbIcon } title="Świetliki i okna" desc="świetliki dwuspadowe, świetliki łukowe, okna przesuwne" />
             <DepartmentsIcons href="/dzial/gromadzenie-wody" icon={ dropletIcon } title="Gromadzenie wody" desc="zbiorniki na deszczówkę i wodę pitną" />
-            <DepartmentsIcons href="/dzial/recykling" icon={ recycleIcon } title="Recykling" desc="pojemniki do segregacji, pojemniki na piasek i sól" />
+            <DepartmentsIcons href="/dzial/pojemniki" icon={ recycleIcon } title="Pojemniki" desc="pojemniki do segregacji, pojemniki na piasek i sól" />
             <DepartmentsIcons href="/dzial/gospodarka-wodno-ściekowa" icon={ waterIcon } title="Gospodarka wodno-ściekowa" desc="oczyszczalnie ścieków, oczyszczalnie drenażowe, osadniki" />
             <DepartmentsIcons href="/dzial/donice-dekoracyjne" icon={ flowerIcon } title="Donice dekoracyjne" desc="podświetlane donice dekoracyjne" />
             <DepartmentsIcons href="/dzial/infrastruktura-morska" icon={ shipIcon } title="Infrastruktura morska" desc="boje znakowe, pławy, łodzie" />
