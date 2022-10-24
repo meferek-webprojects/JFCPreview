@@ -10,7 +10,7 @@ import gemIcon from '../../public/icons/gem-solid.svg';
 
 const Attribs = () => {
     return (
-        <div className="inline-flex flex-wrap 2xl:flex-nowrap justify-center gap-5 bg-blue-100 py-12 px-10 w-full mt-28">
+        <div className="inline-flex flex-wrap justify-center gap-5 bg-blue-100 py-12 px-10 w-full mt-28">
             <Attrib icon={ gemIcon.src } >Najwyższa <br/> jakość produktów</Attrib>
             <Attrib icon={ screwdriverIcon.src } >Własny serwis <br/> pogwarancyjny</Attrib>
             <Attrib icon={ shieldlIcon.src } >Bezpieczeństwo <br/> użytkowników</Attrib>

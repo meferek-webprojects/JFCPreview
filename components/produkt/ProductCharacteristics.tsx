@@ -2,7 +2,7 @@ import Image from "next/image";
 import { LgContainer, MdContainer, SmContainer } from "../Global/Containers";
 
 type Props = {
-    image: string,
+    image: string | any,
     name: string,
     characteristics: string[],
     dimensions?: string,

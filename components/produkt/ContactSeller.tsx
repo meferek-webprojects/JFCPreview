@@ -4,7 +4,7 @@ import { LgContainer } from '../Global/Containers';
 import sellers from "../../pages/database/sellers.json";
 
 type Props = {
-    sellersId: string[],
+    sellersId: string[] | string,
 }
 
 const ContactSeller = ({ sellersId }:Props ) => {
@@ -13,7 +13,7 @@ const ContactSeller = ({ sellersId }:Props ) => {
     
     return (
         <LgContainer> 
-            <div className="border-[10px] sm:border-[15px] border-blue-100 flex flex-wrap xl:flex-nowrap my-28 px-1 sm:px-4 py-16 sm:py-16 sm:pl-16 sm:pr-8">
+            <div className="border-[10px] sm:border-[15px] border-blue-100 flex flex-wrap xl:flex-nowrap my-14 md:my-28 px-1 sm:px-4 py-16 sm:py-16 sm:pl-16 sm:pr-8">
                 <div className="w-full xl:w-1/5 relative h-[5rem] xl:h-[9rem] mb-10 xl:my-auto">
                     <Image alt="" src={ handsIcon } layout="fill"></Image>
                 </div>

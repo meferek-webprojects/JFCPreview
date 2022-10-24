@@ -80,10 +80,6 @@ const Produkt = ({ product }: Params) => {
 
             <ProductExtraImages images={ product.images.concat(product.extraImages).filter(image => image != "") } movie={ product.movie } specifications={product.specifications}/>
 
-            { product.dimensions_table ?
-                <ProductDimensions dimensions_table={ product.dimensions_table } />
-            : null }
-
             { product.equipment && product.extraEquipment ? 
                 <ProductEqTabs image={ product.extraImages ? product.extraImages : product.images } equipment={ product.equipment } extraEquipment={ product.extraEquipment } name={ product.name } dimensions={ eqDim ? product.dimensions : undefined } />
             : null }
@@ -116,6 +112,12 @@ const Produkt = ({ product }: Params) => {
             { product.specifications ?
                 <ProductSpecifications specifications={ product.specifications } />
             : null }
+
+            
+            { product.dimensions_table ?
+                <ProductDimensions dimensions_table={ product.dimensions_table } />
+            : null }
+
 
             <ContactSeller sellersId={ product.sellers_id } />
 

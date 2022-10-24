@@ -24,9 +24,9 @@ const Footer = () => {
                 <FooterNav />
                 <p className="font-proxima text-white/[.7] text-lg md:text-xl mt-5 md:mt-10 mb-12">
                     JFC POLSKA Sp z o.o. <br/>
-                    ul. Białostocka 1, 05-252 Karpin <br/>
-                    Tel.: +48 29 757 83 77 <br/>
-                    Fax: +48 29 757 82 01 <br/>
+                    ul. Białostocka 1, Karpin<br/>
+                    05-252 Dąbrówka, Polska<br/>
+                    Tel.: +48 29 757 83 77 / Fax: +48 29 757 82 01  <br/>
                 </p>
                 <hr className="w-3/4 mx-auto border-2 border-white/[.8]"/>
                 <div className="w-3/4 md:w-1/4 mx-auto my-10 grid grid-cols-4 text-2xl md:text-3xl group">

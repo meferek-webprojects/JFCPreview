@@ -8,7 +8,9 @@ import coverImage from "../public/images/serwis-obsluga.jpg";
 import { SmContainer, MdContainer, LgContainer, XlContainer } from '../components/Global/Containers';
 import Title from "../components/Global/Title";
 
+
 const Serwis: NextPage = () => {
+
     return (
         <>
             <Head>

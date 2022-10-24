@@ -55,3 +55,9 @@ body,
 html {
     scroll-behavior: smooth;
 }
+
+/* @media only screen and (max-width: 1400px) and (min-width: 1050px) {
+    body {
+        zoom: 95%;
+    }
+} */

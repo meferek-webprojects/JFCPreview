@@ -15,7 +15,7 @@ const ProductEqTabs = ({ equipment, extraEquipment, name, image, dimensions }: P
     const [tab, setTab] = useState(true)
 
     return (
-        <LgContainer className="mx-0 sm:mx-4 mt-28">
+        <LgContainer className="mx-0 sm:mx-4 mt-14 md:mt-28">
             <div className="flex flex-col w-full">
                 <div className="flex">
                     <div className={`w-1/2 flex text-center text-blue-700 font-prometobold text-base xs:text-xl sm:text-2xl md:text-3xl py-4 cursor-pointer group ` + (tab ? `bg-blue-100` : ``) } onClick={() => setTab(true) }>

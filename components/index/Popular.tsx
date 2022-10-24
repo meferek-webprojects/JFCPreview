@@ -8,10 +8,9 @@ const Popular = () => {
     const thisProductsId = ["4", "9", "10", "17"];
 
     const thisProducts = products.filter(p => thisProductsId.includes(p.id));
-    console.log(thisProducts)
     
     return (
-        <div className="grid grid-col-1 md:grid-cols-2 2xl:grid-cols-4">
+        <div className="grid grid-col-1 md:grid-cols-2 xl:grid-cols-4">
             { thisProducts.map( p => 
                 <ProductThumb key={ p.id } link={ "/produkt/"+p.id } image={ p.images[0] } title={ p.name }/>
             )}

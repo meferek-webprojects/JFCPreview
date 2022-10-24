@@ -10,18 +10,18 @@ const Counter = () => {
             </div>
             <div className="grid grid-cols-1 xl:grid-cols-3 pb-24">
                 <div className="text-center text-white xl:mt-20">
-                    <i className="bi bi-bag-fill text-7xl md:text-9xl"></i>
-                    <h3 className="font-proximabold mt-8 text-5xl"><CountUp end={289} duration={20} enableScrollSpy={true}/></h3>
+                    <i className="bi bi-bag-fill text-7xl md:text-8xl"></i>
+                    <h3 className="font-proximabold mt-8 text-4xl"><CountUp end={289} duration={20} enableScrollSpy={true}/></h3>
                     <h3 className="font-proximabold uppercase mt-8 text-2xl text-white/[.75]">Różnych <br/> produktów</h3>
                 </div>
                 <div className="text-center text-white mt-20">
-                    <i className="bi bi-fuel-pump-fill text-7xl md:text-9xl"></i>
-                    <h3 className="font-proximabold mt-8 text-5xl"><CountUp end={144} duration={20} enableScrollSpy={true}/> MLN</h3>
+                    <i className="bi bi-fuel-pump-fill text-7xl md:text-8xl"></i>
+                    <h3 className="font-proximabold mt-8 text-4xl"><CountUp end={144} duration={20} enableScrollSpy={true}/> MLN</h3>
                     <h3 className="font-proximabold uppercase mt-8 text-2xl text-white/[.75]">Litrów paliwa wydanych <br/> przez nasze zbiorniki</h3>
                 </div>
                 <div className="text-center text-white mt-20">
-                    <i className="bi bi-people-fill text-7xl md:text-9xl"></i>
-                    <h3 className="font-proximabold mt-8 text-5xl"><CountUp end={4549} duration={20} enableScrollSpy={true}/> </h3>
+                    <i className="bi bi-people-fill text-7xl md:text-8xl"></i>
+                    <h3 className="font-proximabold mt-8 text-4xl"><CountUp end={4549} duration={20} enableScrollSpy={true}/> </h3>
                     <h3 className="font-proximabold uppercase mt-8 text-2xl text-white/[.75]">Zadowolonych <br/> klientów</h3>
                 </div>
             </div>

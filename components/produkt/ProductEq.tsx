@@ -11,7 +11,7 @@ type Props = {
 const ProductEq = ({image, equipment, name, dimensions}: Props) => {
     return (
         
-        <LgContainer className="mt-28 mx-0 sm:mx-4">
+        <LgContainer className="mt-14 md:mt-28 mx-0 sm:mx-4">
             <div className="sm:p-5 bg-blue-100 flex flex-col 2xl:flex-row px-12">
                 <div className="w-full 2xl:w-4/6 flex">
                     <div className="my-auto xl:pl-24 sm:px-10 py-10 xl:py-0 xl:text-left">

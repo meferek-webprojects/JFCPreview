@@ -9,7 +9,7 @@ type Props = {
 
 const ProductExtraEq = ({extraEquipment, image, name}: Props) => {
     return (
-        <LgContainer className="mx-0 sm:mx-4 mt-28">
+        <LgContainer className="mx-0 sm:mx-4 mt-14 md:mt-28">
             <div className="sm:p-5 bg-blue-100 flex flex-col 2xl:flex-row px-12">
                 <div className="w-full 2xl:w-2/6 relative my-5 2xl:m-5 h-[20rem] sm:h-[25rem]">
                     <Image alt="" src={ image } layout="fill" objectFit="contain" />

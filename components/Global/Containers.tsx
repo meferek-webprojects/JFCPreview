@@ -25,7 +25,7 @@ export const MdContainer = ({ children, className, id  }: Props) => {
 export const LgContainer = ({ children, className, id  }: Props) => {
 
     return (
-        <div className={"mx-4 sm:mx-16 lg:mx-32 xl:mx-64" + (className ? " " + className : "")} id={ id ? id : undefined } >
+        <div className={"mx-4 sm:mx-16 lg:mx-32 xl:mx-48 2xl:mx-64" + (className ? " " + className : "")} id={ id ? id : undefined } >
             { children }
         </div>
     );

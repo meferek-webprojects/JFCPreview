@@ -11,20 +11,17 @@
         "capacity": "1100 L",
         "equipment": [
             "Pompa 79, 70l/min, 230 V / 50Hz",
-            "Licznik elektroniczny ",
+            "Licznik elektroniczny",
             "Seperator metalowy JFC",
-            "Wąż dystrybucyjny o długości 6m, zakuty obustronnie",
-            "Automatyczny pistolet A60 JFC",
-            "Czujnik przecieku ze wskaźnikiem poziomu",
-            "GWD - czujnik przeciwprzepełnieniowy"
+            "Wąż dystrybucyjny ¾”, dł. 6m zakuty obustronnie",
+            "Automatyczny pistolet A60 JFC"
         ],
         "extraEquipment": [
             "Zwijadła automatyczne z wężem o długości od 6 do 20m",
-            "Dolna linia napełniająca DN50 z szybkozłączem i zaworem SpillStop",
             "Oświetlenie LED szafy dystrybucyjnej",
             "Szeroka gama filtrów, separatorów w tym do paliw BIO",
             "Pompy o wydajności do 100l/min.",
-            "Tek603 Smart – interaktywny czujnik poziomu paliwa"
+            "Interaktywny czujnik poziomu paliwa"
         ],
         "sellers_id": [
             "1",
@@ -60,12 +57,12 @@
         "dimensions": "181 x 120 x 180 [cm]",
         "capacity": "1300 L",
         "equipment": [
-            "Czujnik przecieku ze wskaźnikiem poziomu",
-            "Pompa 56, 50 l/min, 230V",
-            "Licznik elektroniczny ",
-            "Wąż dystrybucyjny ¾”, dł. 6m",
-            "Automatyczny pistolet JFC",
-            "Duża lub mała skrzynia"
+            "Pompa, 50l/min, 230V /50Hz",
+            "Licznik elektroniczny",
+            "Seperator metalowy JFC",
+            "Wąż dystrybucyjny ¾”, dł. 6m zakuty obustronnie",
+            "Automatyczny pistolet A60 JFC",
+            "Duża lub mała szafa"
         ],
         "extraEquipment": [
             "Zwijadła automatyczne z wężem o długości od 6 do 20m",
@@ -73,7 +70,10 @@
             "Oświetlenie LED szafy dystrybucyjnej",
             "Szeroka gama filtrów, separatorów w tym do paliw BIO",
             "Pompy o wydajności do 100l/min.",
-            "Tek603 Smart – interaktywny czujnik poziomu paliwa"
+            "Interaktywny czujnik poziomu paliwa",
+            "Systemy pomiaru",
+            "Szybkozłącze D50 do napełniania zbiornika",
+            "* opcje wyposażenia tylko dla dużej szafy"
         ],
         "sellers_id": [
             "1",
@@ -92,8 +92,7 @@
             "/images/products/zbiorniki-i-dystrybutory/JFC1300/JFC1300-3.png"
         ],
         "extraImages": [
-            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-3.png"
         ]
     },
     {
@@ -107,12 +106,12 @@
         "dimensions": "181 x 120 x 210 [cm]",
         "capacity": "1600 L",
         "equipment": [
-            "Czujnik przecieku ze wskaźnikiem poziomu",
-            "Pompa 56, 50 l/min, 230V",
-            "Licznik elektroniczny ",
-            "Wąż dystrybucyjny ¾”, dł. 6m",
-            "Automatyczny pistolet JFC",
-            "Duża lub mała skrzynia"
+            "Pompa, 50l/min, 230V /50Hz",
+            "Licznik elektroniczny",
+            "Seperator metalowy JFC",
+            "Wąż dystrybucyjny ¾”, dł. 6m zakuty obustronnie",
+            "Automatyczny pistolet A60 JFC",
+            "Duża lub mała szafa"
         ],
         "extraEquipment": [
             "Zwijadła automatyczne z wężem o długości od 6 do 20m",
@@ -120,7 +119,10 @@
             "Oświetlenie LED szafy dystrybucyjnej",
             "Szeroka gama filtrów, separatorów w tym do paliw BIO",
             "Pompy o wydajności do 100l/min.",
-            "Tek603 Smart – interaktywny czujnik poziomu paliwa"
+            "Interaktywny czujnik poziomu paliwa",
+            "Systemy pomiaru",
+            "Szybkozłącze D50 do napełniania zbiornika",
+            "* opcje wyposażenia tylko dla dużej szafy"
         ],
         "sellers_id": [
             "1",
@@ -140,8 +142,7 @@
             "/images/products/zbiorniki-i-dystrybutory/JFC1600/JFC1600-4.png"
         ],
         "extraImages": [
-            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-3.png"
         ]
     },
     {
@@ -155,12 +156,11 @@
         "dimensions": "238 x 180 x 200 [cm]",
         "capacity": "2500 L",
         "equipment": [
-            "Czujnik przecieku ze wskaźnikiem poziomu",
-            "Pompa 79, 70 l/min, 230V",
-            "Filtr oleju/separator wody",
-            "Licznik elektroniczny ",
-            "Wąż dystrybucyjny ¾”, dł. 6m",
-            "Automatyczny pistolet JFC"
+            "Pompa, 70l/min, 230V /50Hz",
+            "Licznik elektroniczny dwufunkcyjny",
+            "Wąż dystrybucyjny ¾”, dł. 6m zakuty obustronnie",
+            "Automatyczny pistolet A60 JFC",
+            "Czujnik przecieku ze wskaźnikiem poziomu"
         ],
         "extraEquipment": [
             "Zwijadła automatyczne z wężem o długości od 6 do 20m",
@@ -168,7 +168,9 @@
             "Oświetlenie LED szafy dystrybucyjnej",
             "Szeroka gama filtrów, separatorów w tym do paliw BIO",
             "Pompy o wydajności do 100l/min.",
-            "Tek603 Smart – interaktywny czujnik poziomu paliwa"
+            "Interaktywny czujnik poziomu paliwa",
+            "Systemy pomiaru",
+            "Szybkozłącze D50 do napełniania zbiornika"
         ],
         "sellers_id": [
             "1",
@@ -188,8 +190,7 @@
             "/images/products/zbiorniki-i-dystrybutory/JFC2500/JFC2500-4.png"
         ],
         "extraImages": [
-            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-3.png"
         ]
     },
     {
@@ -203,13 +204,11 @@
         "dimensions": "295 x 238 x 204 [cm]",
         "capacity": "5000 L",
         "equipment": [
-            "Czujnik przecieku ze wskaźnikiem poziomu",
-            "GOK – czujnik przepełnieniowy",
-            "Pompa 79, 70 l/min, 230V",
-            "Filtr oleju/separator wody",
-            "Licznik elektroniczny K600",
-            "Wąż dystrybucyjny ¾”, dł. 6m",
-            "Automatyczny pistolet JFC"
+            "Pompa, 70l/min, 230V /50Hz",
+            "Licznik elektroniczny dwufunkcyjny",
+            "Wąż dystrybucyjny ¾”, dł. 6m zakuty obustronnie",
+            "Automatyczny pistolet A60 JFC",
+            "Czujnik przecieku ze wskaźnikiem poziomu"
         ],
         "extraEquipment": [
             "Zwijadła automatyczne z wężem o długości od 6 do 20m",
@@ -217,7 +216,9 @@
             "Oświetlenie LED szafy dystrybucyjnej",
             "Szeroka gama filtrów, separatorów w tym do paliw BIO",
             "Pompy o wydajności do 100l/min.",
-            "Tek603 Smart – interaktywny czujnik poziomu paliwa"
+            "Interaktywny czujnik poziomu paliwa",
+            "Systemy pomiaru",
+            "Szybkozłącze D50 do napełniania zbiornika"
         ],
         "sellers_id": [
             "1",
@@ -235,8 +236,7 @@
             "/images/products/zbiorniki-i-dystrybutory/JFC5000/JFC5000-2.png"
         ],
         "extraImages": [
-            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
+            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-3.png"
         ]
     },
     {
@@ -250,25 +250,21 @@
         "dimensions": "160 x 160 x 190 [cm]",
         "capacity": "2500 L",
         "equipment": [
-            "Pompa Adblue zatapialna",
+            "Pompa Adblue zatapialna, 230V /50Hz lub membranowa",
             "Wąż dystrybucyjny ¾”, dł. 6m",
-            "Pistolet automatyczny",
-            "Licznik elektroniczny dwufunkcyjny ",
-            "Mała/Duża skrzynia"
+            "Pistolet automatyczny JFC",
+            "Licznik elektroniczny"
         ],
         "extraEquipment": [
-            "Ogrzewanie skrzyni"
+            "Przyłącz typu DDC zamontowany na górze zbiornika wewnętrznego",
+            "System wentylatorów wyciągowych",
+            "Automatyczne ogrzewanie nadmuchowe skrzyni dystrybucyjnej",
+            "Elektryczna skrzynka sterująca",
+            "Zabezpieczenie przed przepełnieniem GOK BC2"
         ],
         "sellers_id": [
             "1",
             "2"
-        ],
-        "attribs": [
-            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
-            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
-            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
-            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
-            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
         ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFC2500-ADBLUE-SINGLE/JFC2500-ADBLUE-1-SINGLE.png"
@@ -289,25 +285,21 @@
         "dimensions": "215 x 215 x 190 [cm]",
         "capacity": "5000 L",
         "equipment": [
-            "Pompa Adblue zatapialna",
+            "Pompa Adblue zatapialna, 230V /50Hz lub membranowa",
             "Wąż dystrybucyjny ¾”, dł. 6m",
-            "Pistolet automatyczny",
-            "Licznik elektroniczny dwufunkcyjny ",
-            "Mała/Duża skrzynia"
+            "Pistolet automatyczny JFC",
+            "Licznik elektroniczny"
         ],
         "extraEquipment": [
-            "Ogrzewanie skrzyni"
+            "Przyłącz typu DDC zamontowany na górze zbiornika wewnętrznego",
+            "System wentylatorów wyciągowych",
+            "Automatyczne ogrzewanie nadmuchowe skrzyni dystrybucyjnej",
+            "Elektryczna skrzynka sterująca",
+            "Zabezpieczenie przed przepełnieniem GOK BC2"
         ],
         "sellers_id": [
             "1",
             "2"
-        ],
-        "attribs": [
-            ["KONSTRUKCJA", "Ergonomiczna skrzynia, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi w trakcie transportu. "],
-            ["TRWAŁOŚĆ", "Wzmocniona konstrukcja składająca się z pięciu pierścieni w porównaniu z konkurencją ma znacznie lepsze parametry wytrzymałościowe."],
-            ["WYTRZYMAŁOŚĆ", "Duża odporność na uszkodzenia mechaniczne"],
-            ["PRZEPISY I GWARANCJE", "Produkcja zbiorników odbywa się pod nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa."],
-            ["BEZPIECZEŃSTWO", "Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji zabezpiecza magazynowane paliwo przed wyciekiem. "]
         ],
         "images": [
             "/images/products/zbiorniki-i-dystrybutory/JFC5000-ADBLUE-SINGLE/JFC5000-ADBLUE-SINGLE-1.png"
@@ -328,15 +320,21 @@
         "dimensions": "238 x 180 x 200 [cm]",
         "capacity": "2500 L",
         "equipment": [
-            "Pompa AdBlue zatapialna BEST ONE 40 l/min, 230V",
+            "Pompa AdBlue zatapialna, 230V /50Hz",
             "Wąż dystrybucyjny ¾”, dł. 6m",
-            "Pistolet automatyczny",
-            "Licznik elektroniczny dwufunkcyjny ",
-            "Elektryczna skrzynka sterująca"
+            "Pistolet automatyczny JFC",
+            "Licznik elektroniczny"
         ],
         "extraEquipment": [
-            "Systemy ogrzewania i chłodzenia",
-            "Legalizowane dystrybutory Adast"
+            "Izolacja termiczna zbiornika wewnętrznego",
+            "Izolacja termiczna zbiornika i taśma grzewcza na zbiorniku wewnętrznym",
+            "Dolna linia napełniająca ze stali nierdzewnej z szybko złączem DDC",
+            "Przyłącz typu DDC zamontowany na górze zbiornika wewnętrznego",
+            "System wentylatorów wyciągowych",
+            "Automatyczne ogrzewanie nadmuchowe skrzyni dystrybucyjnej",
+            "Elektryczna skrzynka sterująca",
+            "Zabezpieczenie przed przepełnieniem GOK BC2",
+            "Panel legalizowany ADAST"
         ],
         "sellers_id": [
             "1",
@@ -368,15 +366,21 @@
         "dimensions": "295 x 238 x 204 [cm]",
         "capacity": "5000 L",
         "equipment": [
-            "Pompa AdBlue zatapialna BEST ONE 40 l/min, 230V",
+            "Pompa AdBlue zatapialna, 230V /50Hz",
             "Wąż dystrybucyjny ¾”, dł. 6m",
-            "Pistolet automatyczny",
-            "Licznik elektroniczny dwufunkcyjny ",
-            "Elektryczna skrzynka sterująca"
+            "Pistolet automatyczny JFC",
+            "Licznik elektroniczny"
         ],
         "extraEquipment": [
-            "Systemy ogrzewania i chłodzenia",
-            "Legalizowane dystrybutory Adast"
+            "Izolacja termiczna zbiornika wewnętrznego",
+            "Izolacja termiczna zbiornika i taśma grzewcza na zbiorniku wewnętrznym",
+            "Dolna linia napełniająca ze stali nierdzewnej z szybko złączem DDC",
+            "Przyłącz typu DDC zamontowany na górze zbiornika wewnętrznego",
+            "System wentylatorów wyciągowych",
+            "Automatyczne ogrzewanie nadmuchowe skrzyni dystrybucyjnej",
+            "Elektryczna skrzynka sterująca",
+            "Zabezpieczenie przed przepełnieniem GOK BC2",
+            "Panel legalizowany ADAST"
         ],
         "sellers_id": [
             "1",
@@ -407,14 +411,42 @@
         "subcategory": "Zbiorniki na AdBlue",
         "movie": "URLtoMovie",
         "dimensions": "440 x 227,5 x 120 [cm]",
-        "capacity": "5600 L",
+        "capacity": "1600 - 5600 L",
+        "dimensions_table": [
+            ["TYP KONTENERA", "1600", "2500", "3000", "3500/4000", "5600"],
+            ["POJEMNOŚĆ L", "1600", "2500", "3000", "3500/4000", "5600"],
+            ["DŁUGOŚĆ mm", "1750/1900", "3050/3200", "3050/3200", "3250/3400", "4250/4400"],
+            ["WYSOKOŚĆ mm", "2223", "2225", "2325", "2275", "2275"],
+            ["SZEROKOŚĆ mm", "1200", "1200", "1200", "1200", "1200"],
+            ["Opcja drzwi bocznych", "tak", "tak", "tak", "tak", "tak"],
+            ["Opcja drugiego nalewaka", "tak", "tak", "tak", "tak", "tak"]
+        ],
         "equipment": [
-            "Kontener JFC Blue to ogrzewana, izolowana konstrukcja.",
-            "System JFCBlue to łatwy i szybki sposób uzupełniania AdBlue.",
-            "Jego szerokość to jedyne 120 cm.",
-            "Zdalny monitoring urządzenia, poziomu cieczy.",
-            "Automatyczne koła zwijakowe do długich, 6m węży.",
-            "Dla obsługi w celu bieżącej eksploatacji urządzenia."
+            "Zewnętrzna obudowa - laminat",
+            "Drzwi dostępowe",
+            "Panel ADAST lub Flowmont",
+            "Przepływomierz",
+            "Linia napełniająca zakończona złączem TODO",
+            "Izolacja termiczna",
+            "Wentylator sterowany termostatem",
+            "Ogrzewanie przestrzeni serwisowej",
+            "Ogrzewana przestrzeń na pistolet",
+            "Pistolet automatyczny dla samochodów ciężarowych/osobowych",
+            "Wąż dystrybucyjny ¾”, dł. 6m na automatycznym kole zwijakowym",
+            "Czujnik / alarm przecieku / poziomu cieczy",
+            "Czujnik / alarm max. poziomu - GOK BC2",
+            "Oświetlenie LED szafy dystrybucjnej",
+            "Właz rewizyjny",
+            "Odpowietrzniki"
+        ],
+        "extraEquipment":[
+            "Filtr AdBlue",
+            "Opcja osobnych, dwóch nalewaków dla aut ciężarowych i osobowych",
+            "Wolnostojący słupek z legalizowanym panelem dystrybucyjnym",
+            "System zarządzania z wielodostępem",
+            "Układ wydawczy bez legalizacji",
+            "Możliwości instalacji sony Veeder Root",
+            "Możliwość instalacji dystrybutora płyny do spryskiwaczy (2w1)"
         ],
         "sellers_id": [
             "1",
@@ -432,8 +464,7 @@
             "/images/products/zbiorniki-i-dystrybutory/JFCBLUE/JFCBLUE-3.png"
         ],
         "extraImages": [
-            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-1.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC/JFC-2.png"
+
         ]
     },
     {
@@ -455,14 +486,9 @@
             "Komplet kabli z klemami dł. 4m"
         ],
         "extraEquipment": [
-            "Pokrywa zabezpieczona zamkiem",
-            "Pompa membranowa 40l/min, 12V DC",
-            "Komplet kabli z klemami dł. 4m",
-            "Przepływomierz elektroniczny  AdBlue",
-            "Wąż dystrybucyjny dł. 4m z autom. pilotem",
-            "Wąż ssący z filtrem i zaworem przeciwzwrotnym",
-            "Komplet 4 szekli",
-            "Klapa wyposażona w teleskopy"
+            "Licznik elektroniczny dwufunkcyjny",
+            "Szekle transportowe ze stali nierdzewnej",
+            "Teleskopowe sprężyny gazowe"
         ],
         "sellers_id": [
             "1",
@@ -502,14 +528,9 @@
             "Komplet kabli z klemami dł. 4m"
         ],
         "extraEquipment": [
-            "Pokrywa zabezpieczona zamkiem",
-            "Pompa membranowa 40l/min, 12V DC",
-            "Komplet kabli z klemami dł. 4m",
-            "Przepływomierz elektroniczny  AdBlue",
-            "Wąż dystrybucyjny dł. 4m z autom. pilotem",
-            "Wąż ssący z filtrem i zaworem przeciwzwrotnym",
-            "Komplet 4 szekli",
-            "Klapa wyposażona w teleskopy"
+            "Licznik elektroniczny dwufunkcyjny",
+            "Szekle transportowe ze stali nierdzewnej",
+            "Teleskopowe sprężyny gazowe"
         ],
         "sellers_id": [
             "1",
@@ -549,14 +570,9 @@
             "Komplet kabli z klemami dł. 4m"
         ],
         "extraEquipment": [
-            "Pokrywa zabezpieczona zamkiem",
-            "Pompa membranowa 40l/min, 12V DC",
-            "Komplet kabli z klemami dł. 4m",
-            "Przepływomierz elektroniczny  AdBlue",
-            "Wąż dystrybucyjny dł. 4m z autom. pilotem",
-            "Wąż ssący z filtrem i zaworem przeciwzwrotnym",
-            "Komplet 4 szekli",
-            "Klapa wyposażona w teleskopy"
+            "Licznik elektroniczny dwufunkcyjny",
+            "Szekle transportowe ze stali nierdzewnej",
+            "Teleskopowe sprężyny gazowe"
         ],
         "sellers_id": [
             "1",
@@ -596,14 +612,9 @@
             "Komplet kabli z klemami dł. 4m"
         ],
         "extraEquipment": [
-            "Pokrywa zabezpieczona zamkiem",
-            "Pompa membranowa 40l/min, 12V DC",
-            "Komplet kabli z klemami dł. 4m",
-            "Przepływomierz elektroniczny  AdBlue",
-            "Wąż dystrybucyjny dł. 4m z autom. pilotem",
-            "Wąż ssący z filtrem i zaworem przeciwzwrotnym",
-            "Komplet 4 szekli",
-            "Klapa wyposażona w teleskopy"
+            "Licznik elektroniczny dwufunkcyjny",
+            "Szekle transportowe ze stali nierdzewnej",
+            "Teleskopowe sprężyny gazowe"
         ],
         "sellers_id": [
             "1",
@@ -635,20 +646,19 @@
         "dimensions": "122 x 80 x 61 [cm]",
         "capacity": "200 L",
         "equipment": [
-            "Zbiornik z teleskopową klapą zabezpieczoną zamkiem",
-            "Wąż dystrybucyjny 3/4 dł. 4m",
-            "Pompa  12/24/230 V",
+            "Klapa zabezpieczona zamkiem",
+            "Pompa membranowa 12/24/230 V",
+            "Wąż dystrybucyjny DN20 dł. 4m",
             "Wąż wydawczy z nalewakiem automatycznym",
-            "Wąż ssący z zaworem zwrotnym i filtrem",
-            "Komplet kabli z klemami dł. 4m"
+            "Wąż ssący z zaworem zwrotnym i filtrem"
         ],
         "extraEquipment": [
             "Licznik elektroniczny dwufunkcyjny",
-            "Pompa membranowa 40l/min, 12V DC",
             "Pływakowy wskaźnik poziomu paliwa",
-            "Szekle transportowe",
-            "Oświetlenie LED",
-            "Zasilanie solarne SOLAR"
+            "Szekle transportowe ze stali nierdzewnej",
+            "Oświetlenie LED szafy dystrybucyjnej",
+            "Zasilanie solarne SOLAR",
+            "Zwijak automatyczny z wężem 8m"
         ],
         "sellers_id": [
             "1",
@@ -680,20 +690,19 @@
         "dimensions": "122 x 80 x 81 [cm]",
         "capacity": "400 L",
         "equipment": [
-            "Zbiornik z teleskopową klapą zabezpieczoną zamkiem",
-            "Wąż dystrybucyjny 3/4 dł. 4m",
-            "Pompa  12/24/230 V",
+            "Klapa zabezpieczona zamkiem",
+            "Pompa membranowa 12/24/230 V",
+            "Wąż dystrybucyjny DN20 dł. 4m",
             "Wąż wydawczy z nalewakiem automatycznym",
-            "Wąż ssący z zaworem zwrotnym i filtrem",
-            "Komplet kabli z klemami dł. 4m"
+            "Wąż ssący z zaworem zwrotnym i filtrem"
         ],
         "extraEquipment": [
             "Licznik elektroniczny dwufunkcyjny",
-            "Pompa membranowa 40l/min, 12V DC",
             "Pływakowy wskaźnik poziomu paliwa",
-            "Szekle transportowe",
-            "Oświetlenie LED",
-            "Zasilanie solarne SOLAR"
+            "Szekle transportowe ze stali nierdzewnej",
+            "Oświetlenie LED szafy dystrybucyjnej",
+            "Zasilanie solarne SOLAR",
+            "Zwijak automatyczny z wężem 8m"
         ],
         "sellers_id": [
             "1",
@@ -725,20 +734,19 @@
         "dimensions": "122 x 80 x 97 [cm]",
         "capacity": "600 L",
         "equipment": [
-            "Zbiornik z teleskopową klapą zabezpieczoną zamkiem",
-            "Wąż dystrybucyjny 3/4 dł. 4m",
-            "Pompa  12/24/230 V",
+            "Klapa zabezpieczona zamkiem",
+            "Pompa membranowa 12/24/230 V",
+            "Wąż dystrybucyjny DN20 dł. 4m",
             "Wąż wydawczy z nalewakiem automatycznym",
-            "Wąż ssący z zaworem zwrotnym i filtrem",
-            "Komplet kabli z klemami dł. 4m"
+            "Wąż ssący z zaworem zwrotnym i filtrem"
         ],
         "extraEquipment": [
             "Licznik elektroniczny dwufunkcyjny",
-            "Pompa membranowa 40l/min, 12V DC",
             "Pływakowy wskaźnik poziomu paliwa",
-            "Szekle transportowe",
-            "Oświetlenie LED",
-            "Zasilanie solarne SOLAR"
+            "Szekle transportowe ze stali nierdzewnej",
+            "Oświetlenie LED szafy dystrybucyjnej",
+            "Zasilanie solarne SOLAR",
+            "Zwijak automatyczny z wężem 8m"
         ],
         "sellers_id": [
             "1",
@@ -770,20 +778,19 @@
         "dimensions": "122 x 80 x 123 [cm]",
         "capacity": "900 L",
         "equipment": [
-            "Zbiornik z teleskopową klapą zabezpieczoną zamkiem",
-            "Wąż dystrybucyjny 3/4 dł. 4m",
-            "Pompa  12/24/230 V",
+            "Klapa zabezpieczona zamkiem",
+            "Pompa membranowa 12/24/230 V",
+            "Wąż dystrybucyjny DN20 dł. 4m",
             "Wąż wydawczy z nalewakiem automatycznym",
-            "Wąż ssący z zaworem zwrotnym i filtrem",
-            "Komplet kabli z klemami dł. 4m"
+            "Wąż ssący z zaworem zwrotnym i filtrem"
         ],
         "extraEquipment": [
             "Licznik elektroniczny dwufunkcyjny",
-            "Pompa membranowa 40l/min, 12V DC",
             "Pływakowy wskaźnik poziomu paliwa",
-            "Szekle transportowe",
-            "Oświetlenie LED",
-            "Zasilanie solarne SOLAR"
+            "Szekle transportowe ze stali nierdzewnej",
+            "Oświetlenie LED szafy dystrybucyjnej",
+            "Zasilanie solarne SOLAR",
+            "Zwijak automatyczny z wężem 8m"
         ],
         "sellers_id": [
             "1",
@@ -815,16 +822,18 @@
         "dimensions": "122 x 80 x 57 [cm]",
         "capacity": "250 L",
         "equipment": [
-            "Pompa BP 3000 40 l/min, 12V",
-            "Wąż dystrybucyjny ¾”, dł. 4m",
-            "Pistolet automatyczny JFC"
+            "Pompa, 35l/min, 12V",
+            "Wąż dystrybucyjny 3/4 dł. 4m",
+            "Automatyczny pistolet JFC",
+            "Linia ssąca z zaworem zwrotnym, filtrem sitkowym i zaworem kulowym"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny dwufunkcyjny /K600",
-            "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
-            "Siłowniki teleskopowe",
-            "Zasilanie solarne"
+            "Pompa 24/230 V",
+            "Szeroka gama liczników",
+            "Pływakowy wskaźnik poziomu paliwa",
+            "Filtr linowy",
+            "Teleskopy podtrzymujące klapę"
         ],
         "sellers_id": [
             "1",
@@ -856,16 +865,18 @@
         "dimensions": "122 x 80 x 77 [cm]",
         "capacity": "425 L",
         "equipment": [
-            "Pompa BP 3000 40 l/min, 12V",
-            "Wąż dystrybucyjny ¾”, dł. 4m",
-            "Pistolet automatyczny JFC"
+            "Pompa, 35l/min, 12V",
+            "Wąż dystrybucyjny 3/4 dł. 4m",
+            "Automatyczny pistolet JFC",
+            "Linia ssąca z zaworem zwrotnym, filtrem sitkowym i zaworem kulowym"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny dwufunkcyjny /K600",
-            "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
-            "Siłowniki teleskopowe",
-            "Zasilanie solarne"
+            "Pompa 24/230 V",
+            "Szeroka gama liczników",
+            "Pływakowy wskaźnik poziomu paliwa",
+            "Filtr linowy",
+            "Teleskopy podtrzymujące klapę"
         ],
         "sellers_id": [
             "1",
@@ -897,16 +908,18 @@
         "dimensions": "122 x 80 x 97 [cm]",
         "capacity": "600 L",
         "equipment": [
-            "Pompa BP 3000 40 l/min, 12V",
-            "Wąż dystrybucyjny ¾”, dł. 4m",
-            "Pistolet automatyczny JFC"
+            "Pompa, 35l/min, 12V",
+            "Wąż dystrybucyjny 3/4 dł. 4m",
+            "Automatyczny pistolet JFC",
+            "Linia ssąca z zaworem zwrotnym, filtrem sitkowym i zaworem kulowym"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny /K600",
-            "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
-            "Siłowniki teleskopowe",
-            "Zasilanie solarne"
+            "Pompa 24/230 V",
+            "Szeroka gama liczników",
+            "Pływakowy wskaźnik poziomu paliwa",
+            "Filtr linowy",
+            "Teleskopy podtrzymujące klapę"
         ],
         "sellers_id": [
             "1",
@@ -938,16 +951,18 @@
         "dimensions": "122 x 80 x 97 [cm]",
         "capacity": "950 L",
         "equipment": [
-            "Pompa BP 3000 40 l/min, 12V",
-            "Wąż dystrybucyjny ¾”, dł. 4m",
-            "Pistolet automatyczny JFC"
+            "Pompa, 35l/min, 12V",
+            "Wąż dystrybucyjny 3/4 dł. 4m",
+            "Automatyczny pistolet JFC",
+            "Linia ssąca z zaworem zwrotnym, filtrem sitkowym i zaworem kulowym"
         ],
         "extraEquipment": [
-            "Licznik elektroniczny /K950",
-            "Pływakowy wskaźnik poziomu paliwa",
             "Szekle transportowe",
-            "Siłowniki teleskopowe",
-            "Zasilanie solarne"
+            "Pompa 24/230 V",
+            "Szeroka gama liczników",
+            "Pływakowy wskaźnik poziomu paliwa",
+            "Filtr linowy",
+            "Teleskopy podtrzymujące klapę"
         ],
         "sellers_id": [
             "1",
@@ -980,19 +995,13 @@
         "capacity": "200 L",
         "equipment": [
             "Zbiornik z teleskopową klapą zabezpieczoną zamkiem",
-            "Wąż dystrybucyjny 3/4 dł. 4m",
             "Pompa do ON 12/24/230 V",
-            "Wąż wydawczy z nalewakiem automatycznym",
-            "Wąż ssący z zaworem zwrotnym i filtrem"
+            "Wąż dystrybucyjny 3/4 dł. 4m",
+            "Automatyczny pistolet JFC"
         ],
         "extraEquipment": [
             "Automatyczny zwijak na wąż",
-            "Dodatkowy zbiornik o pojemności 45L z układem wydawczym AdBlue®",
-            "Licznik elektroniczny dwufunkcyjny",
-            "Pływakowy wskaźnik poziomu paliwa",
-            "Szekle transportowe",
-            "Oświetlenie LED",
-            "Zasilanie solarne SOLAR"
+            "Dodatkowy zbiornik o pojemności 34L z układem wydawczym AdBlue"
         ],
         "sellers_id": [
             "1",
@@ -1025,19 +1034,13 @@
         "capacity": "400 L",
         "equipment": [
             "Zbiornik z teleskopową klapą zabezpieczoną zamkiem",
-            "Wąż dystrybucyjny 3/4 dł. 4m",
             "Pompa do ON 12/24/230 V",
-            "Wąż wydawczy z nalewakiem automatycznym",
-            "Wąż ssący z zaworem zwrotnym i filtrem"
+            "Wąż dystrybucyjny 3/4 dł. 4m",
+            "Automatyczny pistolet JFC"
         ],
         "extraEquipment": [
             "Automatyczny zwijak na wąż",
-            "Dodatkowy zbiornik o pojemności 45L z układem wydawczym AdBlue®",
-            "Licznik elektroniczny dwufunkcyjny",
-            "Pływakowy wskaźnik poziomu paliwa",
-            "Szekle transportowe",
-            "Oświetlenie LED",
-            "Zasilanie solarne SOLAR"
+            "Dodatkowy zbiornik o pojemności 34L z układem wydawczym AdBlue"
         ],
         "sellers_id": [
             "1",
@@ -1070,19 +1073,13 @@
         "capacity": "600 L",
         "equipment": [
             "Zbiornik z teleskopową klapą zabezpieczoną zamkiem",
-            "Wąż dystrybucyjny 3/4 dł. 4m",
             "Pompa do ON 12/24/230 V",
-            "Wąż wydawczy z nalewakiem automatycznym",
-            "Wąż ssący z zaworem zwrotnym i filtrem"
+            "Wąż dystrybucyjny 3/4 dł. 4m",
+            "Automatyczny pistolet JFC"
         ],
         "extraEquipment": [
             "Automatyczny zwijak na wąż",
-            "Dodatkowy zbiornik o pojemności 45L z układem wydawczym AdBlue®",
-            "Licznik elektroniczny dwufunkcyjny",
-            "Pływakowy wskaźnik poziomu paliwa",
-            "Szekle transportowe",
-            "Oświetlenie LED",
-            "Zasilanie solarne SOLAR"
+            "Dodatkowy zbiornik o pojemności 34L z układem wydawczym AdBlue"
         ],
         "sellers_id": [
             "1",
@@ -1115,19 +1112,13 @@
         "capacity": "900 L",
         "equipment": [
             "Zbiornik z teleskopową klapą zabezpieczoną zamkiem",
-            "Wąż dystrybucyjny 3/4 dł. 4m",
             "Pompa do ON 12/24/230 V",
-            "Wąż wydawczy z nalewakiem automatycznym",
-            "Wąż ssący z zaworem zwrotnym i filtrem"
+            "Wąż dystrybucyjny 3/4 dł. 4m",
+            "Automatyczny pistolet JFC"
         ],
         "extraEquipment": [
             "Automatyczny zwijak na wąż",
-            "Dodatkowy zbiornik o pojemności 45L z układem wydawczym AdBlue®",
-            "Licznik elektroniczny dwufunkcyjny",
-            "Pływakowy wskaźnik poziomu paliwa",
-            "Szekle transportowe",
-            "Oświetlenie LED",
-            "Zasilanie solarne SOLAR"
+            "Dodatkowy zbiornik o pojemności 34L z układem wydawczym AdBlue"
         ],
         "sellers_id": [
             "1",
@@ -1151,54 +1142,33 @@
     {
         "id": "26",
         "name": "Zbiornik na olej opałowy",
-        "code": "JFC1100-O",
-        "description": "Zbiornik stacjonarny 1000 L Optymalne i bezpieczne rozwiązanie do magazynowania oleju opałowego. Ergonomiczna skrzynia dystrybucyjna wyposażona w drzwiczki, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi. Dodatkowo znacznie wzmacnia konstrukcję zbiornika. Optymalny kolor tworzywa zapewnia łatwość utrzymania zbiornika w czystości i niweluje efekt blaknięcia.",
+        "code": "OP1100SLIM",
+        "description": "Zbiorniki stacjonarne JFC do oleju opałowego to optymalne rozwiązanie do magazynowania. Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji tzw. zbiornik w zbiorniku zabezpiecza magazynowany olej opałowy przed wyciekiem. Produkcja zbiornika na paliwa JFC odbywa się pod ścisłym nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa. Zbiorniki posiadają zatwierdzenie typu UDT oraz pozytywną opinię p.poż. Firma JFC na zakupiony towar udziela 10 lat gwarancji na szczelność zbiornika. .",
         "department_id": "1",
         "subcategory": "Zbiorniki na olej opałowy",
         "movie": "URLtoMovie",
         "dimensions": "235 x 77 x 152 [cm]",
-        "capacity": "1000 L",
-        "characteristics": [
-            "Niezwykle wąska konstrukcja (77 cm) 1000L",
-            "Wysokość zbiornika to zaledwie 152 cm – 1000L"
+        "capacity": "1100 L",
+        "extraEquipment": [
+            "Wąż ssący DN25 z zaworem zwrotnym i filtrem",
+            "Czujnik przecieku ze zintegrowanym wskaźnikiem poziomu",
+            "Czujnik przepełnienia GOK GWD",
+            "Pływakowy wskaźnik poziomu",
+            "Uproszczony układ poboru Afriso",
+            "Łączenie dolne szeregowe 2 zbiorników rurą DN50",
+            "Izolacja termiczna zbiornika wewnętrznego pianką PU",
+            "Izolacja termiczna pianką PU z taśmą grzewczą zbiornika wewnętrznego"
         ],
         "sellers_id": [
             "1",
             "2"
         ],
         "images": [
-            "/images/products/zbiorniki-i-dystrybutory/JFC1100-O/JFC1100-O-1.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC1100-O/JFC1100-O-2.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC1100-O/JFC1100-O-3.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC1100-O/JFC1100-O-4.png"
-        ],
-        "extraImages": [
-            ""
-        ]
-    },
-    {
-        "id": "27",
-        "name": "Zbiornik na olej opałowy",
-        "code": "JFC2500-O",
-        "description": "Zbiornik stacjonarny 2500 L Optymalne i bezpieczne rozwiązanie do magazynowania oleju opałowego. Ergonomiczna skrzynia dystrybucyjna wyposażona w drzwiczki, dzięki unikalnemu sposobowi montażu chroni zbiornik przed uszkodzeniami mechanicznymi. Dodatkowo znacznie wzmacnia konstrukcję zbiornika. Optymalny kolor tworzywa zapewnia łatwość utrzymania zbiornika w czystości i niweluje efekt blaknięcia.",
-        "department_id": "1",
-        "subcategory": "Zbiorniki na olej opałowy",
-        "movie": "URLtoMovie",
-        "dimensions": "995 x 235 x 202 [cm]",
-        "capacity": "2500 L",
-        "characteristics": [
-            "Niezwykle wąska konstrukcja (235 cm) 2500L",
-            "Wysokość zbiornika to zaledwie 995 cm – 2500L"
-        ],
-        "sellers_id": [
-            "1",
-            "2"
-        ],
-        "images": [
-            "/images/products/zbiorniki-i-dystrybutory/JFC1100-O/JFC1100-O-1.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC1100-O/JFC1100-O-2.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC1100-O/JFC1100-O-3.png",
-            "/images/products/zbiorniki-i-dystrybutory/JFC1100-O/JFC1100-O-4.png"
+            "/images/products/zbiorniki-i-dystrybutory/OP1100SLIM/JFC1100-O-5.png",
+            "/images/products/zbiorniki-i-dystrybutory/OP1100SLIM/JFC1100-O-1.png",
+            "/images/products/zbiorniki-i-dystrybutory/OP1100SLIM/JFC1100-O-2.png",
+            "/images/products/zbiorniki-i-dystrybutory/OP1100SLIM/JFC1100-O-3.png",
+            "/images/products/zbiorniki-i-dystrybutory/OP1100SLIM/JFC1100-O-4.png"
         ],
         "extraImages": [
             ""
@@ -1529,7 +1499,7 @@
         "code": "DBL",
         "description": "Poidła miskowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich. Każde poidło jest zaprojektowane z zaokrąglonymi krawędziami zapewniającymi bezpieczeństwo zwierzętom podczas użytkowania. Poidło DBL posiada misę o pojemności 16L. W wyposażeniu znajduję się zawór pływakowy 1/2 cala, który utrzymuje wodę na stałym poziomie. Dodatkowo plastikowa pokrywa, korek spustowy (25mm) do opróżniania i czyszczenia oraz obejmy ze stali nierdzewnej do zamocowania (2 szt.)",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "krTCIyqQEB0",
         "dimensions": "39,5 x 40 x 34 [cm]",
         "capacity": "16 L",
@@ -1562,7 +1532,7 @@
         "code": "DBL2",
         "description": "To długie, wąskie poidło (29,5L.) może być umieszczone pomiędzy zagrodami (wygrodzeniami). W wyposażeniu znajduję się: zabudowany zawór pływakowy, pokrywa zaworu, korek spustowy 25mm, wsporniki ze stali nierdzewnej.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "krTCIyqQEB0",
         "dimensions": "125 x 23,7 x 15/23,5 [cm]",
         "capacity": "29,5 L",
@@ -1592,7 +1562,7 @@
         "code": "KDBL2",
         "description": "Poidło o zwiększonej pojemności. Posiada ruchomą klapę, która chroni wodę przed zanieczyszczeniami. Idealne przy użyciu dmuchawy do słomy. Posiada zawór pływakowy, korek spustowy (25 mm) oraz obejmy ze stali nierdzewnej do montażu (2 szt.).",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "krTCIyqQEB0",
         "dimensions": "52,5 x 37,5 x 30 [cm]",
         "capacity": "20,5 L",
@@ -1622,7 +1592,7 @@
         "code": "DBL3",
         "description": "Poidło DBL3 posiada misę o pojemności 22L. W wyposażeniu znajduje się zabudowany zawór pływakowy półcalowy, który utrzymuje wodę na stałym poziomie. Osłona zaworu i korek spustowy (25mm). Poidło ma 4 otwory montażowe ułatwiające instalacje w narożnikach pomieszczeń hodowlanych.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "66 x 48,2 x 24,1 [cm]",
         "capacity": "22 L",
@@ -1657,7 +1627,7 @@
         "code": "DBL4",
         "description": "Mikropoidło DBL4 ze stałym poziomem wody jest idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwentarskich. Każde poidło jest zaprojektowane z zaokrąglonymi krawędziami zapewniającymi bezpieczeństwo zwierzętom podczas użytkowania.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "krTCIyqQEB0",
         "dimensions": "33 x 25,4 x 22,8 [cm]",
         "capacity": "4 L",
@@ -1690,7 +1660,7 @@
         "code": "DBL7",
         "description": "Poidła miskowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich. Każde poidło jest zaprojektowane z zaokrąglonymi krawędziami zapewniającymi bezpieczeństwo zwierzętom podczas użytkowania. DBL7 ma podwójne ścianki, odporne na uderzenia i intensywne użytkowanie.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "krTCIyqQEB0",
         "dimensions": "30 x 22 x 22,6 [cm]",
         "capacity": "2 L",
@@ -1722,7 +1692,7 @@
         "code": "DBL8",
         "description": "Poidła miskowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich. Każde poidło jest zaprojektowane z zaokrąglonymi krawędziami zapewniającymi bezpieczeństwo zwierzętom podczas użytkowania. DBL8 ma podwójne ścianki, odporne na uderzenia i intensywne użytkowanie.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "krTCIyqQEB0",
         "dimensions": "30 x 22 x 22,6 [cm]",
         "capacity": "2 L",
@@ -1753,7 +1723,7 @@
         "code": "DBL8-H",
         "description": "To podgrzewane polietylowe poidło dla bydła, koni i owiec jest wyposażone w mosiężny nosowy zawór napełniający. Dolne i górne złącze zaworu umożliwia pracę w systemie obiegowym wody. Przewód grzejny jest zamontowany od spodu miskiza ochronną polietyenową płytą podstawy. Zasilany napięciem stałym 24V z  bezpiecznego i ekonomicznego, elektronicznego zasilacza. Elektroniczne zasilacze dostępne są  dla pojedynczych poideł i grup do 12 sztuk. Przewód grzejny może być sterowany ręcznie lub automatycznie przez opcjonalny cyfrowy sterownik temperatury.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "30 x 22 x 22,6 [cm]",
         "capacity": "2 L",
@@ -1797,7 +1767,7 @@
         "code": "DBL9",
         "description": "Poidło DBL9 możesz opróżnić za pomocą przycisku i wykorzystania siły grawitacji. Ponownie napełnić w mniej niż 15 sek. Idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwentarskich. Każde poidło jest zaprojektowane z zaokrąglonymi krawędziami zapewniającymi bezpieczeństwo zwierzętom podczas użytkowania.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "BfFOQVEgpdQ",
         "dimensions": "34 x 36 x 23 [cm]",
         "capacity": "3,5 L",
@@ -1829,7 +1799,7 @@
         "code": "ID25",
         "description": "Poidła izolowane firmy JFC są wykonane z wysokiej jakości polietylenu. Podwójne ściany poideł wypełnione są pianką poliuretanową, która utrzymuje optymalną temperaturę wody nawet w ekstremalnych warunkach klimatycznych.Woda chroniona jest przez specjalną pokrywę, którą można łatwo otworzyć za pomocą klucza nasadowego. Zwierzęta mają dostęp do wody poprzez naciskanie białej kuli. Odpowiednie użytkowanie poideł zapobiega zamarzaniu wody nawet w temperaturze -25ºC. Główną zaletą tych poideł jest to, że nie wymagają zasilania elektrycznego, jak inne poidła niezamarzające. Są również bardzo efektywne przy utrzymywaniu chłodnej wody podczas ciepłych dni.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "62 x 56 x 35 [cm]",
         "capacity": "25 L",
@@ -1863,7 +1833,7 @@
         "code": "ID80",
         "description": "Poidła izolowane firmy JFC są wykonane z wysokiej jakości polietylenu. Podwójne ściany poideł wypełnione są pianką poliuretanową, która utrzymuje optymalną temperaturę wody nawet w ekstremalnych warunkach klimatycznych.Woda chroniona jest przez specjalną pokrywę, którą można łatwo otworzyć za pomocą klucza nasadowego. Zwierzęta mają dostęp do wody poprzez naciskanie białej kuli. Odpowiednie użytkowanie poideł zapobiega zamarzaniu wody nawet w temperaturze -25ºC. Główną zaletą tych poideł jest to, że nie wymagają zasilania elektrycznego, jak inne poidła niezamarzające. Są również bardzo efektywne przy utrzymywaniu chłodnej wody podczas ciepłych dni.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "99 x 59,7 x 46 [cm]",
         "capacity": "80 L",
@@ -1897,7 +1867,7 @@
         "code": "ID100",
         "description": "Poidła izolowane firmy JFC są wykonane z wysokiej jakości polietylenu. Podwójne ściany poideł wypełnione są pianką poliuretanową, która utrzymuje optymalną temperaturę wody nawet w ekstremalnych warunkach klimatycznych.Woda chroniona jest przez specjalną pokrywę, którą można łatwo otworzyć za pomocą klucza nasadowego. Zwierzęta mają dostęp do wody poprzez naciskanie białej kuli. Odpowiednie użytkowanie poideł zapobiega zamarzaniu wody nawet w temperaturze -25ºC. Główną zaletą tych poideł jest to, że nie wymagają zasilania elektrycznego, jak inne poidła niezamarzające. Są również bardzo efektywne przy utrzymywaniu chłodnej wody podczas ciepłych dni.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "110 x 55 x 64,5 [cm]",
         "capacity": "100 L",
@@ -1931,7 +1901,7 @@
         "code": "TOT",
         "description": "Poidła z mechanizmem wylewania umożliwiają szybkie opróżnianie zużytej wody i ułatwiają czyszczenie. Prosty i wydajny system czyszczenia zapewnia zwierzętom świerzą, czystą wodę pitną. Każde poidło posiada zawór pływakowy o przepustowości 35L./min. (szybkie napełnianie). Zawór utrzymuje stały poziom wody (100L.), co umożliwia pojenie 5 krów jednocześnie. Poidła sa wykończone gładką powierzchnią zapewniającą bezpieczeństwo w użytkowaniu i łatwe czyszczenie. Dostępne są ze stelażem ocynkowanym mocowanym do podłogi lub do ściany. Opcjonalnie możliwe zamontowanie płyt grzewczych 250V lub 24V z transformatorem (zapobiega zamarzaniu wody).",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "230 x 685 x 1095 [cm]",
         "capacity": "100 L",
@@ -1964,7 +1934,7 @@
         "code": "EU100",
         "description": "Poidła jedno lub dwukomorowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich jak i pastwiskach. Poidła są wyposażone w zawory szybkiego napełniania oraz korek spustowy zapewniający wygodne użytkowanie.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "88,9 x 54,5 x 33 [cm]",
         "capacity": "100 L",
@@ -1995,7 +1965,7 @@
         "code": "DT10",
         "description": "Poidła jedno lub dwukomorowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich jak i pastwiskach. Poidła są wyposażone w zawory szybkiego napełniania oraz korek spustowy zapewniający wygodne użytkowanie.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "68,5 x 45,7 x 22,5 [cm]",
         "capacity": "53 L",
@@ -2029,7 +1999,7 @@
         "code": "DT20",
         "description": "Poidła jedno lub dwukomorowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich jak i pastwiskach. Poidła są wyposażone w zawory szybkiego napełniania oraz korek spustowy zapewniający wygodne użytkowanie.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "88,9 x 50,8 x 43 [cm]",
         "capacity": "100 L",
@@ -2063,7 +2033,7 @@
         "code": "DT27",
         "description": "Poidła jedno lub dwukomorowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich jak i pastwiskach. Poidła są wyposażone w zawory szybkiego napełniania oraz korek spustowy zapewniający wygodne użytkowanie.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "94 x 66 x 33,5 [cm]",
         "capacity": "100 L",
@@ -2097,7 +2067,7 @@
         "code": "DT30",
         "description": "Poidła jedno lub dwukomorowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich jak i pastwiskach. Poidła są wyposażone w zawory szybkiego napełniania oraz korek spustowy zapewniający wygodne użytkowanie.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "119,3 x 48,2 x 28 [cm]",
         "capacity": "137 L",
@@ -2131,7 +2101,7 @@
         "code": "DT40",
         "description": "Poidła jedno lub dwukomorowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich jak i pastwiskach. Poidła są wyposażone w zawory szybkiego napełniania oraz korek spustowy zapewniający wygodne użytkowanie.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "129,8 x 47,2 x 57,9 [cm]",
         "capacity": "180 L",
@@ -2165,7 +2135,7 @@
         "code": "DT70",
         "description": "Poidła jedno lub dwukomorowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich jak i pastwiskach. Poidła są wyposażone w zawory szybkiego napełniania oraz korek spustowy zapewniający wygodne użytkowanie.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "137,2 x 63,5 x 45,1 [cm]",
         "capacity": "282 L",
@@ -2199,7 +2169,7 @@
         "code": "DT90",
         "description": "Poidła jedno lub dwukomorowe idealne przy hodowli krów, cieląt, koni, kóz, owiec. Niezwykle trwałe, doskonale sprawdzają się w budynkach inwetarskich jak i pastwiskach. Poidła są wyposażone w zawory szybkiego napełniania oraz korek spustowy zapewniający wygodne użytkowanie.",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "150 x 68,5 x 53,3 [cm]",
         "capacity": "400 L",
@@ -2233,7 +2203,7 @@
         "code": "DT30FF",
         "description": "Poidło najwyższej jakości. Ma charakterystyczny błyszczący czarny kolor JFC z żółtą, łatwo dostępną pokrywą serwisową.  Posiada zawór pływakowy JFC o szybkim napełnieniu, który jest wyposażony w złącze 3/4 cala i jest w stanie dostarczyć do 175L./min (ciśnienie 3 bar).",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "125 x 47,5 x 31 [cm]",
         "capacity": "137 L",
@@ -2265,7 +2235,7 @@
         "code": "DT90FF",
         "description": "Poidło najwyższej jakości. Ma charakterystyczny błyszczący czarny kolor JFC z żółtą, łatwo dostępną pokrywą serwisową.  Posiada zawór pływakowy JFC o szybkim napełnieniu, który jest wyposażony w złącze 3/4 cala i jest w stanie dostarczyć do 175L./min (ciśnienie 3 bar).",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "155 x 73 x 53 [cm]",
         "capacity": "400 L",
@@ -2297,7 +2267,7 @@
         "code": "DT100FF",
         "description": "Poidła najwyższej jakości od 450L. do 1000L. Charakterystyczny błyszczący czarny kolor JFC z żółtą, łatwo dostępną pokrywą serwisową.  Posiada zawór pływakowy JFC o szybkim napełnieniu, który jest wyposażony w złącze 3/4 cala i jest w stanie dostarczyć do 95L./min (ciśnienie 3 bar).",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "155 x 73 x 53 [cm]",
         "capacity": "450 L",
@@ -2328,7 +2298,7 @@
         "code": "DT600FF",
         "description": "Poidła najwyższej jakości od 450L. do 1000L. Charakterystyczny błyszczący czarny kolor JFC z żółtą, łatwo dostępną pokrywą serwisową.  Posiada zawór pływakowy JFC o szybkim napełnieniu, który jest wyposażony w złącze 3/4 cala i jest w stanie dostarczyć do 95L./min (ciśnienie 3 bar).",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "161 x 118 x 84 [cm]",
         "capacity": "600 L",
@@ -2359,7 +2329,7 @@
         "code": "DT800FF",
         "description": "Poidła najwyższej jakości od 450L. do 1000L. Charakterystyczny błyszczący czarny kolor JFC z żółtą, łatwo dostępną pokrywą serwisową.  Posiada zawór pływakowy JFC o szybkim napełnieniu, który jest wyposażony w złącze 3/4 cala i jest w stanie dostarczyć do 95L./min (ciśnienie 3 bar).",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "197 x 118 x 84 [cm]",
         "capacity": "800 L",
@@ -2390,7 +2360,7 @@
         "code": "DT1000FF",
         "description": "Poidła najwyższej jakości od 450L. do 1000L. Charakterystyczny błyszczący czarny kolor JFC z żółtą, łatwo dostępną pokrywą serwisową.  Posiada zawór pływakowy JFC o szybkim napełnieniu, który jest wyposażony w złącze 3/4 cala i jest w stanie dostarczyć do 95L./min (ciśnienie 3 bar).",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "2180 x 118 x 84 [cm]",
         "capacity": "1000 L",
@@ -2416,99 +2386,12 @@
         ]
     },
     {
-        "id": "66",
-        "name": "Poidło plastikowe owalne z szybkim napełnienem",
-        "code": "DT180FF",
-        "description": "Poidło najwyższej jakości. Ma charakterystyczny błyszczący czarny kolor JFC z żółtą, łatwo dostępną pokrywą serwisową.  Posiada zawór pływakowy JFC o szybkim napełnieniu, który jest wyposażony w złącze 3/4 cala i jest w stanie dostarczyć do 75L./min (ciśnienie 3 bar).",
-        "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
-        "movie": "URLtoMovie",
-        "dimensions": "142,5 x 67,5 [cm]",
-        "capacity": "871 L",
-        "characteristics": [
-            "Posiadają zawór pływakowy o szybkim przepływie (do 175L./min ciśnienie 3 bary)",
-            "Zawór chroniony pokrywą z łatwym dostępem",
-            "Wykonane z wzmocnionego tworzywa",
-            "Wysoka odporność na zamarzanie/odmarzanie",
-            "Wykończone gładką powierzchnią zapewniającą bezpieczeństwo i łatwość czyszczenia"
-        ],
-        "sellers_id": [
-            "3",
-            "4"
-        ],
-        "images": [
-            "/images/products/rolnictwo/DT180FF/DT180FF-1.png",
-            "/images/products/rolnictwo/DT/DT-1.png"
-        ],
-        "extraImages": [
-            ""
-        ]
-    },
-    {
-        "id": "67",
-        "name": "Poidło plastikowe owalne z szybkim napełnienem",
-        "code": "DT250FF",
-        "description": "Poidło najwyższej jakości. Ma charakterystyczny błyszczący czarny kolor JFC z żółtą, łatwo dostępną pokrywą serwisową.  Posiada zawór pływakowy JFC o szybkim napełnieniu, który jest wyposażony w złącze 3/4 cala i jest w stanie dostarczyć do 75L./min (ciśnienie 3 bar).",
-        "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
-        "movie": "URLtoMovie",
-        "dimensions": "172,5 x 60,6 [cm]",
-        "capacity": "1125 L",
-        "characteristics": [
-            "Posiadają zawór pływakowy o szybkim przepływie (do 175L./min ciśnienie 3 bary)",
-            "Zawór chroniony pokrywą z łatwym dostępem",
-            "Wykonane z wzmocnionego tworzywa",
-            "Wysoka odporność na zamarzanie/odmarzanie",
-            "Wykończone gładką powierzchnią zapewniającą bezpieczeństwo i łatwość czyszczenia"
-        ],
-        "sellers_id": [
-            "3",
-            "4"
-        ],
-        "images": [
-            "/images/products/rolnictwo/DT250FF/DT250FF-1.png",
-            "/images/products/rolnictwo/DT/DT-1.png"
-        ],
-        "extraImages": [
-            ""
-        ]
-    },
-    {
-        "id": "68",
-        "name": "Poidło plastikowe owalne z szybkim napełnienem",
-        "code": "DT350FF",
-        "description": "Poidło najwyższej jakości. Ma charakterystyczny błyszczący czarny kolor JFC z żółtą, łatwo dostępną pokrywą serwisową.  Posiada zawór pływakowy JFC o szybkim napełnieniu, który jest wyposażony w złącze 3/4 cala i jest w stanie dostarczyć do 75L./min (ciśnienie 3 bar).",
-        "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
-        "movie": "URLtoMovie",
-        "dimensions": "187,5 x 75 [cm]",
-        "capacity": "1590 L",
-        "characteristics": [
-            "Posiadają zawór pływakowy o szybkim przepływie (do 175L./min ciśnienie 3 bary)",
-            "Zawór chroniony pokrywą z łatwym dostępem",
-            "Wykonane z wzmocnionego tworzywa",
-            "Wysoka odporność na zamarzanie/odmarzanie",
-            "Wykończone gładką powierzchnią zapewniającą bezpieczeństwo i łatwość czyszczenia"
-        ],
-        "sellers_id": [
-            "3",
-            "4"
-        ],
-        "images": [
-            "/images/products/rolnictwo/DT350FF/DT350FF-1.png",
-            "/images/products/rolnictwo/DT/DT-1.png"
-        ],
-        "extraImages": [
-            ""
-        ]
-    },
-    {
         "id": "69",
         "name": "Poidło plastikowe owalne z szybkim napełnienem",
         "code": "S-1500",
         "description": "Poidło najwyższej jakości. Ma charakterystyczny błyszczący czarny kolor JFC z żółtą, łatwo dostępną pokrywą serwisową.  Posiada zawór pływakowy JFC o szybkim napełnieniu, który jest wyposażony w złącze 3/4 cala i jest w stanie dostarczyć do 75L./min (ciśnienie 3 bar).",
         "department_id": "3, 11",
-        "subcategory": "Zaopatrzenie w wodę",
+        "subcategory": "Zapotrzebowanie na wodę",
         "movie": "URLtoMovie",
         "dimensions": "180 x 70 [cm]",
         "capacity": "1500 L",
@@ -6603,7 +6486,7 @@
         "movie": "URLtoMovie",
         "capacity": "150-350 L",
         "dimensions_table": [
-            ["KOD PRUDUKTU", "SB 100", "SB 150", "SB 175", "SB 200", "SB 350"],
+            ["KOD PRODUKTU", "SB 100", "SB 150", "SB 175", "SB 200", "SB 350"],
             ["POJEMNOŚĆ L", "100", "150", "175", "200", "350"],
             ["GŁĘBOKOŚĆ mm", "660", "798", "860", "800", "1050"],
             ["SZEROKOŚĆ mm", "600", "642", "860", "720", "975"],
@@ -7347,6 +7230,192 @@
         ],
         "images": [
             "/images/products/rolnictwo/HB03-PL/HB03-PL-1.png"
+        ],
+        "extraImages": [
+            ""
+        ]
+    },
+    {
+        "id": "241",
+        "name": "Zbiornik na olej opałowy",
+        "code": "OP1300",
+        "description": "Zbiorniki stacjonarne JFC do oleju opałowego to optymalne rozwiązanie do magazynowania. Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji tzw. zbiornik w zbiorniku zabezpiecza magazynowany olej opałowy przed wyciekiem. Produkcja zbiornika na paliwa JFC odbywa się pod ścisłym nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa. Zbiorniki posiadają zatwierdzenie typu UDT oraz pozytywną opinię p.poż. Firma JFC na zakupiony towar udziela 10 lat gwarancji na szczelność zbiornika. .",
+        "department_id": "1",
+        "subcategory": "Zbiorniki na olej opałowy",
+        "movie": "URLtoMovie",
+        "dimensions": "120 x 180 [cm]",
+        "capacity": "1300 L",
+        "extraEquipment": [
+            "Wąż ssący DN25 z zaworem zwrotnym i filtrem",
+            "Czujnik przecieku ze zintegrowanym wskaźnikiem poziomu",
+            "Czujnik przepełnienia GOK GWD",
+            "Pływakowy wskaźnik poziomu",
+            "Uproszczony układ poboru Afriso",
+            "Łączenie dolne szeregowe 2 zbiorników rurą DN50",
+            "Izolacja termiczna zbiornika wewnętrznego pianką PU",
+            "Izolacja termiczna pianką PU z taśmą grzewczą zbiornika wewnętrznego"
+        ],
+        "sellers_id": [
+            "1",
+            "2"
+        ],
+        "images": [
+            "/images/products/zbiorniki-i-dystrybutory/OP1300/OP1300-1.png"
+        ],
+        "extraImages": [
+            ""
+        ]
+    },
+    {
+        "id": "242",
+        "name": "Zbiornik na olej opałowy",
+        "code": "OP1500",
+        "description": "Zbiorniki stacjonarne JFC do oleju opałowego to optymalne rozwiązanie do magazynowania. Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji tzw. zbiornik w zbiorniku zabezpiecza magazynowany olej opałowy przed wyciekiem. Produkcja zbiornika na paliwa JFC odbywa się pod ścisłym nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa. Zbiorniki posiadają zatwierdzenie typu UDT oraz pozytywną opinię p.poż. Firma JFC na zakupiony towar udziela 10 lat gwarancji na szczelność zbiornika. .",
+        "department_id": "1",
+        "subcategory": "Zbiorniki na olej opałowy",
+        "movie": "URLtoMovie",
+        "dimensions": "192 x 142,1 x 124 [cm]",
+        "capacity": "1500 L",
+        "extraEquipment": [
+            "Wąż ssący DN25 z zaworem zwrotnym i filtrem",
+            "Czujnik przecieku ze zintegrowanym wskaźnikiem poziomu",
+            "Czujnik przepełnienia GOK GWD",
+            "Pływakowy wskaźnik poziomu",
+            "Uproszczony układ poboru Afriso",
+            "Łączenie dolne szeregowe 2 zbiorników rurą DN50",
+            "Izolacja termiczna zbiornika wewnętrznego pianką PU",
+            "Izolacja termiczna pianką PU z taśmą grzewczą zbiornika wewnętrznego"
+        ],
+        "sellers_id": [
+            "1",
+            "2"
+        ],
+        "images": [
+            "/images/products/zbiorniki-i-dystrybutory/OP1500/OP1500-1.png"
+        ],
+        "extraImages": [
+            ""
+        ]
+    },
+    {
+        "id": "243",
+        "name": "Zbiornik na olej opałowy",
+        "code": "OP1600",
+        "description": "Zbiorniki stacjonarne JFC do oleju opałowego to optymalne rozwiązanie do magazynowania. Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji tzw. zbiornik w zbiorniku zabezpiecza magazynowany olej opałowy przed wyciekiem. Produkcja zbiornika na paliwa JFC odbywa się pod ścisłym nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa. Zbiorniki posiadają zatwierdzenie typu UDT oraz pozytywną opinię p.poż. Firma JFC na zakupiony towar udziela 10 lat gwarancji na szczelność zbiornika. .",
+        "department_id": "1",
+        "subcategory": "Zbiorniki na olej opałowy",
+        "movie": "URLtoMovie",
+        "dimensions": "120 x 210 [cm]",
+        "capacity": "1600 L",
+        "extraEquipment": [
+            "Wąż ssący DN25 z zaworem zwrotnym i filtrem",
+            "Czujnik przecieku ze zintegrowanym wskaźnikiem poziomu",
+            "Czujnik przepełnienia GOK GWD",
+            "Pływakowy wskaźnik poziomu",
+            "Uproszczony układ poboru Afriso",
+            "Łączenie dolne szeregowe 2 zbiorników rurą DN50",
+            "Izolacja termiczna zbiornika wewnętrznego pianką PU",
+            "Izolacja termiczna pianką PU z taśmą grzewczą zbiornika wewnętrznego"
+        ],
+        "sellers_id": [
+            "1",
+            "2"
+        ],
+        "images": [
+            "/images/products/zbiorniki-i-dystrybutory/OP1600/OP1600-1.png"
+        ],
+        "extraImages": [
+            ""
+        ]
+    },
+    {
+        "id": "244",
+        "name": "Zbiornik na olej opałowy",
+        "code": "OP2500SLIM",
+        "description": "Zbiorniki stacjonarne JFC do oleju opałowego to optymalne rozwiązanie do magazynowania. Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji tzw. zbiornik w zbiorniku zabezpiecza magazynowany olej opałowy przed wyciekiem. Produkcja zbiornika na paliwa JFC odbywa się pod ścisłym nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa. Zbiorniki posiadają zatwierdzenie typu UDT oraz pozytywną opinię p.poż. Firma JFC na zakupiony towar udziela 10 lat gwarancji na szczelność zbiornika. .",
+        "department_id": "1",
+        "subcategory": "Zbiorniki na olej opałowy",
+        "movie": "URLtoMovie",
+        "dimensions": "183 x 86 x 86 [cm]",
+        "capacity": "2500/2800 L",
+        "extraEquipment": [
+            "Wąż ssący DN25 z zaworem zwrotnym i filtrem",
+            "Czujnik przecieku ze zintegrowanym wskaźnikiem poziomu",
+            "Czujnik przepełnienia GOK GWD",
+            "Pływakowy wskaźnik poziomu",
+            "Uproszczony układ poboru Afriso",
+            "Łączenie dolne szeregowe 2 zbiorników rurą DN50",
+            "Izolacja termiczna zbiornika wewnętrznego pianką PU",
+            "Izolacja termiczna pianką PU z taśmą grzewczą zbiornika wewnętrznego"
+        ],
+        "sellers_id": [
+            "1",
+            "2"
+        ],
+        "images": [
+            "/images/products/zbiorniki-i-dystrybutory/OP2500SLIM/OP2500SLIM-1.png"
+        ],
+        "extraImages": [
+            ""
+        ]
+    },
+    {
+        "id": "245",
+        "name": "Zbiornik na olej opałowy",
+        "code": "OP2500",
+        "description": "Zbiorniki stacjonarne JFC do oleju opałowego to optymalne rozwiązanie do magazynowania. Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji tzw. zbiornik w zbiorniku zabezpiecza magazynowany olej opałowy przed wyciekiem. Produkcja zbiornika na paliwa JFC odbywa się pod ścisłym nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa. Zbiorniki posiadają zatwierdzenie typu UDT oraz pozytywną opinię p.poż. Firma JFC na zakupiony towar udziela 10 lat gwarancji na szczelność zbiornika. .",
+        "department_id": "1",
+        "subcategory": "Zbiorniki na olej opałowy",
+        "movie": "URLtoMovie",
+        "dimensions": "180 x 202 [cm]",
+        "capacity": "2500/2800 L",
+        "extraEquipment": [
+            "Wąż ssący DN25 z zaworem zwrotnym i filtrem",
+            "Czujnik przecieku ze zintegrowanym wskaźnikiem poziomu",
+            "Czujnik przepełnienia GOK GWD",
+            "Pływakowy wskaźnik poziomu",
+            "Uproszczony układ poboru Afriso",
+            "Łączenie dolne szeregowe 2 zbiorników rurą DN50",
+            "Izolacja termiczna zbiornika wewnętrznego pianką PU",
+            "Izolacja termiczna pianką PU z taśmą grzewczą zbiornika wewnętrznego"
+        ],
+        "sellers_id": [
+            "1",
+            "2"
+        ],
+        "images": [
+            "/images/products/zbiorniki-i-dystrybutory/OP2500/OP2500-1.png"
+        ],
+        "extraImages": [
+            ""
+        ]
+    },
+    {
+        "id": "246",
+        "name": "Zbiornik na olej opałowy",
+        "code": "OP5000",
+        "description": "Zbiorniki stacjonarne JFC do oleju opałowego to optymalne rozwiązanie do magazynowania. Zastosowanie dwupłaszczowej, wzmocnionej konstrukcji tzw. zbiornik w zbiorniku zabezpiecza magazynowany olej opałowy przed wyciekiem. Produkcja zbiornika na paliwa JFC odbywa się pod ścisłym nadzorem Urzędu Dozoru Technicznego zgodnie z obowiązującymi przepisami prawa. Zbiorniki posiadają zatwierdzenie typu UDT oraz pozytywną opinię p.poż. Firma JFC na zakupiony towar udziela 10 lat gwarancji na szczelność zbiornika. .",
+        "department_id": "1",
+        "subcategory": "Zbiorniki na olej opałowy",
+        "movie": "URLtoMovie",
+        "dimensions": "238 x 204 [cm]",
+        "capacity": "5000 L",
+        "extraEquipment": [
+            "Wąż ssący DN25 z zaworem zwrotnym i filtrem",
+            "Czujnik przecieku ze zintegrowanym wskaźnikiem poziomu",
+            "Czujnik przepełnienia GOK GWD",
+            "Pływakowy wskaźnik poziomu",
+            "Uproszczony układ poboru Afriso",
+            "Łączenie dolne szeregowe 2 zbiorników rurą DN50",
+            "Izolacja termiczna zbiornika wewnętrznego pianką PU",
+            "Izolacja termiczna pianką PU z taśmą grzewczą zbiornika wewnętrznego"
+        ],
+        "sellers_id": [
+            "1",
+            "2"
+        ],
+        "images": [
+            "/images/products/zbiorniki-i-dystrybutory/OP5000/OP5000-1.png"
         ],
         "extraImages": [
             ""

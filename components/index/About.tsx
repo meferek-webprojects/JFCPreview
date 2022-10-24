@@ -10,7 +10,7 @@ const About = () => {
                     <Image alt="image" src={ aboutImage } layout="fill" objectFit="cover" objectPosition="center" quality="60" loading="eager"/>
                 </div>
                 <div className="w-full flex bg-blue-100">
-                    <p className="p-4 xs:p-12 my-auto font-proxima text-xl xl:text-2xl xl:leading-loose leading-loose">
+                    <p className="p-4 xs:p-12 my-auto font-proxima text-xl 2xl:text-2xl xl:leading-loose leading-loose">
                         JFC jest miedzynarodową firmą projektującą i wdrażażającą
                         innowacyjne rozwiązania w zakresie branży budowlanej, rolniczej, przeładunkowej i morskiej.<br/><br/>
                         Dzięki 35-letniemu doświadczeniu nasze rozwiązania wywodzą się ze zrozumienia klienta, innowacyjnego projektu i specjalistycznej inżynierii.
